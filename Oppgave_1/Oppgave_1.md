@@ -23,4 +23,4 @@ Gå til [AkademiX Studio](https://beta.akademix.no:18010). Dersom du har fullfø
 
 
 ## Neste
-Gå tilbake til [startsiden](../README.md) og velg Oppgave 2.
+Gå tilbake til [startsiden](../README.md#oppgaver) og velg Oppgave 2.

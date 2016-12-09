@@ -53,4 +53,4 @@ Hvordan legge til oppgaver i kurset.
 
 ### Ekstra
 
-Det er fritt frem å eksperimentere litt med AkademiX Studio før du går tilbake til [startsiden](../README.md) og velger Oppgave 3.
+Det er fritt frem å eksperimentere litt med AkademiX Studio før du går tilbake til [startsiden](../README.md#oppgaver) og velger Oppgave 3.

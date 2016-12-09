@@ -24,9 +24,10 @@ Du bør starte med Oppgave 1. Fullfører du alle oppgavene til og med Oppgave 7 
   **Mål**: Opprett konto på akademix.no. Bli kursutvikler i ditt eget test-kurs på i *AkademiX Studio* beta.akademix.no:18010.
   **Oppgave**: Trykk her: [Oppgave 1](Oppgave_1/Oppgave_1.md)
 
-### [Oppgave 2](Oppgave_1/Oppgave_1.md): Lag din første kursmodul
+### [Oppgave 2](Oppgave_2/Oppgave_2.md): Lag din første kursmodul
   **Mål**: Opprett en kursmodul bestående av en video, noe tekst og en oppgave.
-  **Oppgave**: http://example.com
+  **Oppgave**: Trykk her: [Oppgave 1](Oppgave_2/Oppgave_2.md)
+  
 ### [Oppgave 3](Oppgave_1/Oppgave_1.md): Lag rammeverket til et helt kurs
   **Mål**: Lag seksjoner og underseksjoner for et helt nettkurs. Med obligatoriske oppgaver, deleksamen og avsluttende eksamen.
   **Oppgave**: Trykk her: [Oppgave 1](Oppgave_1/Oppgave_1.md)

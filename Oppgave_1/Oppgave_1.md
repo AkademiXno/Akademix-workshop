@@ -19,9 +19,8 @@ Gi beskjed til Alexander når brukeren er aktivert. Han sørger for å oppgrader
 
 Gå til [AkademiX Studio](https://beta.akademix.no:18010). Dersom du har fullført Oppgave b) får du tilgang til ditt eget personlige testkurs etter at du har logget inn. Det er dette kurset du skal bruke resten av workshopen. 
 
-<p align="justify">
-  ## Gratulerer, du er nå blitt kursutvikler!
-</p>
+> ## Gratulerer, du er nå blitt kursutvikler!
+
 
 ## Neste
 Gå tilbake til [startsiden](../README.md) og velg Oppgave 2.

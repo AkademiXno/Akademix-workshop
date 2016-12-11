@@ -37,7 +37,7 @@
 
 (v) Trykk på "Preview" for å se hva du har laget så langt. Du får opp noe som ligner dette:
 
-![Testkurs 1](testkurs_1.png)
+![Testkurs 1](testkurs1.png)
 
 Trykk på pilen til venstre to ganger. Studentene som tar kurset møter først denne videoen. Etter å ha sett den trykker de på pilen til høyre og kommer til tekst-blokken vi la inn. Når denne er lest møter de vårt flervalgsspørsmål. 
 

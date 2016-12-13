@@ -65,10 +65,13 @@ some foundational topics that will help you get the most out of Khan Academy's b
 <p>
 <ul>
   <li> 
-General chemistry. Get a feel for atoms, molecules, and how they interact with each other. After all, that's what you (and all life) are made up of!
+General chemistry. Get a feel for atoms, molecules, and how they interact with each other.
+After all, that's what you (and all life) are made up of!
   </li>
   <li>
-Acid-base chemistry. A lot of the chemistry in your body is acid-base chemistry that takes place in watery solutions. Knowing what acids and bases are will get you a long way with biochemistry.
+Acid-base chemistry. A lot of the chemistry in your body is acid-base chemistry that takes
+place in watery solutions. Knowing what acids and bases are will get you a long way with
+biochemistry.
   </li>
 </ul>
 </p>
@@ -78,7 +81,9 @@ Acid-base chemistry. A lot of the chemistry in your body is acid-base chemistry 
 <p>
 <ul>
   <li>
- Laws of thermodynamics. Get a feeling for what energy is and what rules govern its transfer. Energy is constantly flowing through ecosystems, organisms, and cells, and is essential to keep these systems running!
+ Laws of thermodynamics. Get a feeling for what energy is and what rules govern its transfer.
+ Energy is constantly flowing through ecosystems, organisms, and cells, and is essential to
+ keep these systems running!
   </li>
 </ul>
 </p>
@@ -96,15 +101,28 @@ https://www.khanacademy.org/science/biology/intro-to-biology/what-is-biology/a/w
 <h2>Introduction</h2>
 
 <p>
-In the intro to biology video, we defined biology as the branch of science concerned with the study of living things, or organisms. That definition is pretty straightforward. However, it opens the door to more difficult—and more interesting—questions: What is life? What does it mean to be alive?
+In the intro to biology video, we defined biology as the branch of science concerned with
+the study of living things, or organisms. That definition is pretty straightforward.
+However, it opens the door to more difficult—and more interesting—questions: What is life?
+What does it mean to be alive?
 </p>
 
 <p>
-You are alive, and so am I. The dog I can hear barking is alive, and so is the tree outside my window. However, snow falling from the clouds is not alive. The computer you’re using to read this article is not alive, and neither is a chair or table. The parts of a chair that are made of wood were once alive, but they aren’t any longer. If you were to burn the wood in a fire, the fire would not be alive either.
+You are alive, and so am I. The dog I can hear barking is alive, and so is the tree outside
+my window. However, snow falling from the clouds is not alive. The computer you’re using to
+read this article is not alive, and neither is a chair or table. The parts of a chair that
+are made of wood were once alive, but they aren’t any longer. If you were to burn the wood
+in a fire, the fire would not be alive either.
 </p>
 
 <p>
-What is it that defines life? How can we tell that one thing is alive and another is not? Most people have an intuitive understanding of what it means for something to be alive. However, it’s surprisingly hard to come up with a precise definition of life. Because of this, many definitions of life are operational definitions—they allow us to separate living things from nonliving ones, but they don’t actually pin down what life is. To make this separation, we must come up with a list of properties that are, as a group, uniquely characteristic of living organisms.
+What is it that defines life? How can we tell that one thing is alive and another is not?
+Most people have an intuitive understanding of what it means for something to be alive.
+However, it’s surprisingly hard to come up with a precise definition of life. Because of this,
+many definitions of life are operational definitions—they allow us to separate living things
+from nonliving ones, but they don’t actually pin down what life is. To make this separation,
+we must come up with a list of properties that are, as a group, uniquely characteristic of
+living organisms.
 </p>
 
 

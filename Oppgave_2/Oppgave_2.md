@@ -48,12 +48,38 @@ La oss endre video, tekst og oppgave.
 Trykk her for en rekke eksempler på videoer og tekst du kan bruke til å fylle kurset ditt (vi skal ta i bruk denne samlingen i alle oppgavene fremover): 
 [Ressurser til workshop](../Ressurser/ressurser.md).
 
-(i) 
+(i) Gå tilbake til video-enheten. Trykk på "EDIT"-knappen:
 
-(ii)
+![Edit video](edit_video.png)
+
+Bytt ut "Default Video URL" med en video fra [Ressurser til workshop](../Ressurser/ressurser.md). Trykk "Publish".
+
+(ii) Gå til tekstenheten etter videoen ("Informasjon om kurset"). Trykk "EDIT" og skriv en kort tekst med informasjon om ditt kurs. For eksempel basert på følgende mal:
+
+```
+Om kurset [dette kan gjerne settes til "Heading 1"]
+
+[Kort intro til hva kurset handler om]
+
+Innholdsfortegnelse ["Heading 2"]
+
+[Fremdriftsplan]
+
+```
+
+Eksperimenter litt med menyvalgene i editoren:
+![Editor-meny](editor_meny.png)
 
 
-(iii)
+(iii) Gå til den siste enheten i modulen. Velg "EDIT" i flervalgsspørsmålet du la inn i Oppgave 2. Erstatt oppgaveteksten med noe passende. Du kan fjerne alt frem til ">>". Korrekt svar er markert med en "x".
+
+Se [MC-dokumentasjonen](http://edx.readthedocs.io/projects/edx-partner-course-staff/en/latest/exercises_tools/multiple_choice.html) for mer om denne typen spørsmål.
+
+Trykk på "Content" og deretter "Outline" i header-menyen. Trykk så på "Publish" på upubliserte innholdsblokker:
+
+![Publish](publish-knapp.png)
+
+Velg deretter "View Live".
 
 
 ### Ekstra

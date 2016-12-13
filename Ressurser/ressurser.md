@@ -4,133 +4,61 @@
 ## Videoer
 
 
-### Fra Khan Academy: [Respiratory system](https://www.khanacademy.org/science/health-and-medicine/respiratory-system)
-
-* 1. **Meet the lungs**: https://www.khanacademy.org/science/health-and-medicine/respiratory-system/respiratory-system-introduction/v/meet-the-lungs
-* 2. **People and plants**: https://www.khanacademy.org/science/health-and-medicine/respiratory-system/respiratory-system-introduction/v/people-and-plants
-* 3. **The bronchial tree**: https://www.khanacademy.org/science/health-and-medicine/respiratory-system/respiratory-system-introduction/v/the-bronchial-tree
-* 4. **Inhaling and exhaling**: https://www.khanacademy.org/science/health-and-medicine/respiratory-system/respiratory-system-introduction/v/the-bronchial-treel
-* 5. **How does lung volume change?**: https://www.khanacademy.org/science/health-and-medicine/respiratory-system/respiratory-system-introduction/v/how-does-lung-volume-change
-* 6. **Alveolar gas equation - part 1**: https://www.khanacademy.org/science/health-and-medicine/respiratory-system/gas-exchange-jv/v/alveolar-gas-equation-part-1
-* 7. **Alveolar gas equation - part 2**: https://www.khanacademy.org/science/health-and-medicine/respiratory-system/gas-exchange-jv/v/alveolar-gas-equation-part-2
-
 ### Fra Khan Academy / Crash Course: [Crash Course World History](https://www.khanacademy.org/humanities/world-history/crashcourse-worldhistory)
 
-* 1. Introduksjon og **The Agricultural Revolution**: https://www.khanacademy.org/humanities/world-history/crashcourse-worldhistory/what-happens-when-you-stay-put-2/v/crash-course-world-history-01
-* 2. **Indus Valley civilization**: https://www.khanacademy.org/humanities/world-history/crashcourse-worldhistory/what-happens-when-you-stay-put-2/v/crash-course-world-history-02
-* 3. **Ancient Mesopotamia** : https://www.khanacademy.org/humanities/world-history/crashcourse-worldhistory/what-happens-when-you-stay-put-2/v/crash-course-world-history-03
-* 4. **Ancient Egypt**: https://www.khanacademy.org/humanities/world-history/crashcourse-worldhistory/what-happens-when-you-stay-put-2/v/crash-course-world-history-04
-* 5. **Greeks and Persians**: https://www.khanacademy.org/humanities/world-history/crashcourse-worldhistory/so-thats-where-that-comes-from-2/v/crash-course-world-history-05
-* 6. **Buddha and Ashoka**: https://www.khanacademy.org/humanities/world-history/crashcourse-worldhistory/so-thats-where-that-comes-from-2/v/crash-course-world-history-06
+* 1. Introduksjon og **The Agricultural Revolution**:https://www.youtube.com/watch?v=Z_P5rqxeBVA
+* 2. **Indus Valley civilization**: https://www.youtube.com/watch?v=73yFDlgqPio
+* 3. **Ancient Mesopotamia** : https://www.youtube.com/watch?v=EUGCai8y2Uw
+* 4. **Ancient Egypt**: https://www.youtube.com/watch?v=Hpfs8uEo9WA
+* 5. **Greeks and Persians**: https://www.youtube.com/watch?v=7HUYGoJ2bD0
+* 6. **Buddha and Ashoka**: https://www.youtube.com/watch?v=OZbM1h3S-aA
 
 
 
 ### Fra Khan Academy: [Intro to biology](https://www.khanacademy.org/science/biology/intro-to-biology)
 
-* 1. Text: **Preparing to study biology**: https://www.khanacademy.org/science/biology/intro-to-biology/what-is-biology/a/prep-to-study-biology
-* 2. **Biology overview**: https://www.khanacademy.org/science/biology/intro-to-biology/what-is-biology/v/overview-of-biology
-* 3. Text: **What is life?**: https://www.khanacademy.org/science/biology/intro-to-biology/what-is-biology/a/what-is-life
-* 4. **The scientific method**: https://www.khanacademy.org/science/biology/intro-to-biology/science-of-biology/v/the-scientific-method
-* 5. Text: **The scientfic method**: https://www.khanacademy.org/science/biology/intro-to-biology/science-of-biology/a/the-science-of-biology
-* 6. Text: **Controlled experiments**: https://www.khanacademy.org/science/biology/intro-to-biology/science-of-biology/a/experiments-and-observations
-* 7. **The lungs and pulmanory system**: https://www.khanacademy.org/science/biology/human-biology/circulatory-pulmonary/v/the-lungs-and-pulmonary-system
-* 8. **Red blood cells **: https://www.khanacademy.org/science/biology/human-biology/circulatory-pulmonary/v/red-blood-cells
-* 9. **Circulatory system and the heart**: https://www.khanacademy.org/science/biology/human-biology/circulatory-pulmonary/v/circulatory-system-and-the-heart
-* 10. **Hemoglobin**: https://www.khanacademy.org/science/biology/human-biology/circulatory-pulmonary/v/hemoglobin
-* 11. Text: **Components of blood**: https://www.khanacademy.org/science/biology/human-biology/circulatory-pulmonary/a/components-of-the-blood
-
-
-### Fra Khan Academy: [Micoreconomics](https://www.khanacademy.org/economics-finance-domain/microeconomics/supply-demand-equilibrium)
-
-* 1. **Introduction to Economics**: https://www.khanacademy.org/economics-finance-domain/microeconomics/supply-demand-equilibrium/economics-introduction/v/introduction-to-economics
-* 2. Tekst: **The law of demand** (fra Khan Academy)
-
+* 1. Text: **Preparing to study biology**:
 ```
-### Key points
-
-The law of demand states that a higher price leads to a lower quantity demanded and that a lower price leads to a higher quantity demanded.
-Demand curves and demand schedules are tools used to summarize the relationship between demand and price.
-Demand for goods and services
-
-Economists use the term demand to refer to the amount of some good or service consumers are willing and able to purchase at each price. Demand is based on needs and wants—a consumer may be able to differentiate between a need and a want, but from an economist’s perspective they are the same thing. Demand is also based on ability to pay. If you cannot pay, you have no effective demand.
-What a buyer pays for a unit of the specific good or service is called price. The total number of units purchased at that price is called the quantity demanded. A rise in price of a good or service almost always decreases the quantity demanded of that good or service. Conversely, a fall in price will increase the quantity demanded. When the price of a gallon of gasoline goes up, for example, people look for ways to reduce their consumption by combining several errands, commuting by carpool or mass transit, or taking weekend or vacation trips closer to home. Economists call this inverse relationship between price and quantity demanded the law of demand. The law of demand assumes that all other variables that affect demand are held constant.
-
-
-### Demand schedule and demand curve
-
-A demand schedule is a table that shows the quantity demanded at each price.
-A demand curve is a graph that shows the quantity demanded at each price.
-Here's an example of a demand schedule from the market for gasoline.
-Price (per gallon)	Quantity demanded (millions of gallons)
-\$1.00$1.00dollar sign, 1, point, 00	800800800
-\$1.20$1.20dollar sign, 1, point, 20	700700700
-\$1.40$1.40dollar sign, 1, point, 40	600600600
-\$1.60$1.60dollar sign, 1, point, 60	550550550
-\$1.80$1.80dollar sign, 1, point, 80	500500500
-\$2.00$2.00dollar sign, 2, point, 00	460460460
-\$2.20$2.20dollar sign, 2, point, 20	420420420
-Price, in this case, is measured in dollars per gallon of gasoline. The quantity demanded is measured in millions of gallons over some time period—for example, per day or per year—and over some geographic area—like a state or a country.
-Here's the same information shown as a demand curve with quantity on the horizontal axis and the price per gallon on the vertical axis. Note that this is an exception to the normal rule in mathematics that the independent variable (xxx) goes on the horizontal axis and the dependent variable (yyy) goes on the vertical.
-
-[Demand curve](law_demand_fig.jpg)
-
-The graph shows a downward-sloping demand curve that represents the law of demand.
-The demand schedule shows that as price rises, quantity demanded decreases, and vice versa. These points are then graphed, and the line connecting them is the demand curve. The downward slope of the demand curve again illustrates the law of demand—the inverse relationship between prices and quantity demanded.
-Demand curves will be somewhat different for each product. They may appear relatively steep or flat, and they may be straight or curved. Nearly all demand curves share the fundamental similarity that they slope down from left to right, embodying the law of demand: As the price increases, the quantity demanded decreases, and, conversely, as the price decreases, the quantity demanded increases.
-[Attribution]
-
-### The difference between demand and quantity demanded
-
-In economic terminology, demand is not the same as quantity demanded. When economists talk about demand, they mean the relationship between a range of prices and the quantities demanded at those prices, as illustrated by a demand curve or a demand schedule. When economists talk about quantity demanded, they mean only a certain point on the demand curve or one quantity on the demand schedule. In short, demand refers to the curve, and quantity demanded refers to a specific point on the curve.
+https://www.khanacademy.org/science/biology/intro-to-biology/what-is-biology/a/prep-to-study-biology
 ```
-* 3. **Law of demand**: https://www.khanacademy.org/economics-finance-domain/microeconomics/supply-demand-equilibrium/demand-curve-tutorial/v/law-of-demand
-* 4. **Price of related products and demand**: https://www.khanacademy.org/economics-finance-domain/microeconomics/supply-demand-equilibrium/demand-curve-tutorial/v/price-of-related-products-and-demand
+* 2. **Biology overview**: https://www.youtube.com/watch?v=dQCsA2cCdvA
+* 3. Text: **What is life?**:
+```
+https://www.khanacademy.org/science/biology/intro-to-biology/what-is-biology/a/what-is-life
+```
+* 4. **The scientific method**: https://www.youtube.com/watch?v=N6IAzlugWw0
+* 5. Text: **The scientfic method**:
+```
+https://www.khanacademy.org/science/biology/intro-to-biology/science-of-biology/a/the-science-of-biology
+```
+* 6. Text: **Controlled experiments**:
+```
+https://www.khanacademy.org/science/biology/intro-to-biology/science-of-biology/a/experiments-and-observations
+```
+* 7. **The lungs and pulmanory system**: https://www.youtube.com/watch?v=SPGRkexI_cs
+* 8. **Red blood cells **: https://www.youtube.com/watch?v=fLKOBQ6cZHA
 
 
+### Fra Khan Academy: [Respiratory system](https://www.khanacademy.org/science/health-and-medicine/respiratory-system)
 
-### Fra Udacity: [Web development](https://www.udacity.com/course/web-development--cs253)
-
-
-* 1. **s **:
-* 1. **s **:
-* 1. **s **:
-* 1. **s **:
-* 1. **s **:
-* 1. **s **:
-* 1. **s **:
-* 1. **s **:
-* 1. **s **:
-* 1. **s **:
-
-### Fra Udacity: [Intro to descriptive statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
-
-
-* 1. **s **:
-* 1. **s **:
-* 1. **s **:
-* 1. **s **:
-* 1. **s **:
-* 1. **s **:
-* 1. **s **:
-* 1. **s **:
-* 1. **s **:
-* 1. **s **:
-
+* 1. **Meet the lungs**: https://www.youtube.com/watch?v=qGiPZf7njqY
+* 2. **People and plants**: https://www.youtube.com/watch?v=lzWUG4H5QBo
+* 3. **The bronchial tree**: https://www.youtube.com/watch?v=Z-yv3Yq4Aw4
+* 4. **Inhaling and exhaling**: https://www.youtube.com/watch?v=mykrnTh1tz8
+* 5. **How does lung volume change?**: https://www.youtube.com/watch?v=dTsUyXXudvA
+* 6. **Alveolar gas equation - part 1**: https://www.youtube.com/watch?v=zZX9jJqSlQs
+* 7. **Alveolar gas equation - part 2**: https://www.youtube.com/watch?v=xH5Y3Kmx82w
 
 
 ### Fra Udacity: [Intro to the design of everyday things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
 
 
-* 1. **s **:
-* 1. **s **:
-* 1. **s **:
-* 1. **s **:
-* 1. **s **:
-* 1. **s **:
-* 1. **s **:
-* 1. **s **:
-* 1. **s **:
-* 1. **s **:
+* 1. 1.1 **Welcome to the course**: https://www.youtube.com/watch?v=fy-J_E55rw0
+* 1. 1.2 **Throw the box**: https://www.youtube.com/watch?v=tZkP9evOAtI
+* 1. 1.3 **Introvideo til Quiz 1 (se nedenfor for quiz)**: https://www.youtube.com/watch?v=ydiqjH7Bwmw
+* 1. 1.4 **Interview with Tim Brown**: https://www.youtube.com/watch?v=859ZOXwbdsg
+* 1. 1.5 **Introvideo til Quiz 2**: https://www.youtube.com/watch?v=Fjxu2_cyPdo
+* 1. 2.1 **Introduction to conceptual models**: https://www.youtube.com/watch?v=pAOyWFOFhsg
 
 
 ### Fra Udacity: [How to use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
@@ -229,6 +157,22 @@ Checkboxes fra Khan
 MC fra Khan: https://www.khanacademy.org/science/health-and-medicine/respiratory-system/respiratory-system-introduction/e/advanced-lung-quiz
 ```
 
+
+### Intro to the design of everyday things
+
+* Quiz 1: En checkbox-oppgave der studenten blir bedt om å skrive et innlegg på forumet og så si fra når dette er utført. Kopier følgende inn i et **Blank Problem**:
+
+```
+
+```
+
+* Quiz 2: En fritekst-oppgave
+
+Lag en **Problem Builder**-blokk (finnes under **Advanced**). Trykk på **View** og velg deretter **Long Answer**. Trykk **Edit** og lim inn følgende:
+
+```
+<img width="100%" src="https://lh3.ggpht.com/e6rZBO15LcHaGjqeHrsu-9cipetkZ5uNHW1kHCv_H8dfJU2H-YJphhqfJ5gMQHeBwlG4KVRh6lyoJi8I15I=s0#w=1920&h=1080">
+```
 
 
 ### How to use Git and GitHub

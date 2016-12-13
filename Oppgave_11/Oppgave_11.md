@@ -7,7 +7,7 @@
 
 (i) 
 
-(ii) AkademiX Demo - Workshopversjon
+(ii) AkademiX Demo - Workshopversjon (kun published)
 
 
 

@@ -10,6 +10,8 @@ Gå til https://beta.akademix.no. Dersom du ikke har registrert deg tidligere, t
 
 ![Registrer deg](register.png)
 
+<img src="register.png",width=220,height=220>
+
 Bruk registreringsskjema, Facebook eller LinkedIn for å opprette en bruker. Du får en epost med en lenke du må trykke på for å aktivere din konto. Pass på å sjekke korrekt epost (den du brukte når du registrerte deg). Sjekk spam-katalogen dersom eposten ikke dukker opp innen et minutt eller to.
 
 ### b)

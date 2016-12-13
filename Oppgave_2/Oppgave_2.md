@@ -53,7 +53,7 @@ Trykk på pilen til venstre to ganger. Studentene som tar kurset møter først d
 La oss endre video, tekst og oppgave.
 
 Trykk her for en rekke eksempler på videoer og tekst du kan bruke til å fylle kurset ditt (vi skal ta i bruk denne samlingen i alle oppgavene fremover): 
-[Ressurser til workshop](../Ressurser/ressurser.md#ressurser).
+[Ressurser til workshop](../Ressurser/ressurser.md#ressurser). Du kan også finne video og tekstinnhold på egen hånd.
 
 (i) Gå tilbake til video-enheten. Trykk på **EDIT**-knappen:
 

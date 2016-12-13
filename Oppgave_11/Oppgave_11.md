@@ -11,6 +11,6 @@
 
 
 
-#### Dette var siste oppgave!
+### Dette var siste oppgave!
 
 For å lære mer: eksperimenter, spør og les dokumentasjonen (http://edx.readthedocs.io/projects/open-edx-building-and-running-a-course/en/latest/getting_started/index.html).

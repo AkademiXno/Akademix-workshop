@@ -6,12 +6,18 @@
 
 ### Fra Khan Academy / Crash Course: [Crash Course World History](https://www.khanacademy.org/humanities/world-history/crashcourse-worldhistory)
 
-#### 1. Introduksjon og **The Agricultural Revolution**:https://www.youtube.com/watch?v=Z_P5rqxeBVA
-#### 2. **Indus Valley civilization**: https://www.youtube.com/watch?v=73yFDlgqPio
-#### 3. **Ancient Mesopotamia** : https://www.youtube.com/watch?v=EUGCai8y2Uw
-#### 4. **Ancient Egypt**: https://www.youtube.com/watch?v=Hpfs8uEo9WA
-#### 5. **Greeks and Persians**: https://www.youtube.com/watch?v=7HUYGoJ2bD0
-#### 6. **Buddha and Ashoka**: https://www.youtube.com/watch?v=OZbM1h3S-aA
+#### 1. Introduksjon og **The Agricultural Revolution**:
+https://www.youtube.com/watch?v=Z_P5rqxeBVA
+#### 2. **Indus Valley civilization**:
+https://www.youtube.com/watch?v=73yFDlgqPio
+#### 3. **Ancient Mesopotamia** :
+https://www.youtube.com/watch?v=EUGCai8y2Uw
+#### 4. **Ancient Egypt**:
+https://www.youtube.com/watch?v=Hpfs8uEo9WA
+#### 5. **Greeks and Persians**:
+https://www.youtube.com/watch?v=7HUYGoJ2bD0
+#### 6. **Buddha and Ashoka**:
+https://www.youtube.com/watch?v=OZbM1h3S-aA
 
 
 

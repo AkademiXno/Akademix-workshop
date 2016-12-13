@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=7HUYGoJ2bD0
 https://www.youtube.com/watch?v=OZbM1h3S-aA
 
 
-
+----
 ### Fra Khan Academy: [Intro to biology](https://www.khanacademy.org/science/biology/intro-to-biology)
 
 #### 1.1. Text: **Preparing to study biology**:
@@ -127,7 +127,7 @@ https://www.youtube.com/watch?v=SPGRkexI_cs
 https://www.youtube.com/watch?v=fLKOBQ6cZHA
 
 
-
+----
 ### Fra Udacity: [Intro to the design of everyday things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
 
 
@@ -144,7 +144,7 @@ https://www.youtube.com/watch?v=Fjxu2_cyPdo
 #### 2.1 **Introduction to conceptual models**:
 https://www.youtube.com/watch?v=pAOyWFOFhsg
 
-
+----
 ### Fra Udacity: [How to use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
 
@@ -218,7 +218,7 @@ reflections directory and rename it, then add your response after the first prom
 #### 7. **Where do versions come from?**:
 https://www.youtube.com/watch?v=-cFdBWD_suY
 
-
+----
 ### Fra forelesning
 
 #### Video-kilde:
@@ -227,7 +227,7 @@ https://www.youtube.com/watch?v=xAGiqdwq88I
 Gå til Studio for å legge til denne videoen. Trykk **Edit** og deretter **ADVANCED**. Ved å bruke **Video Start Time** og **Video Stop Time** kan du dele opp videoen i flere biter (og gjerne stille spørsmål mellom hver bit). 
 
 
-
+----
 ### Fra Khan Academy: [Respiratory system](https://www.khanacademy.org/science/health-and-medicine/respiratory-system)
 
 #### **Meet the lungs**:
@@ -245,7 +245,7 @@ https://www.youtube.com/watch?v=zZX9jJqSlQs
 #### **Alveolar gas equation - part 2**:
 https://www.youtube.com/watch?v=xH5Y3Kmx82w
 
-
+----
 ## Oppgaver
 
 
@@ -293,7 +293,7 @@ Planter lager oksygen via fotosyntese, og mennesker bruker den i cellulær respi
 
 ```
 
-
+----
 ### Intro to the design of everyday things
 
 #### Quiz 1:
@@ -303,6 +303,7 @@ En checkbox-oppgave der studenten blir bedt om å skrive et innlegg på forumet 
 
 ```
 
+----
 #### Quiz 2: En fritekst-oppgave
 
 Lag en **Problem Builder**-blokk (finnes under **Advanced**). Trykk på **View** og velg deretter **Long Answer**. Trykk **Edit** og lim inn følgende:
@@ -311,7 +312,7 @@ Lag en **Problem Builder**-blokk (finnes under **Advanced**). Trykk på **View**
 <img width="100%" src="https://lh3.ggpht.com/e6rZBO15LcHaGjqeHrsu-9cipetkZ5uNHW1kHCv_H8dfJU2H-YJphhqfJ5gMQHeBwlG4KVRh6lyoJi8I15I=s0#w=1920&h=1080">
 ```
 
-
+----
 ### How to use Git and GitHub
 
 #### Quiz 1:
@@ -320,6 +321,7 @@ Lag en **Problem Builder**-blokk (finnes under **Advanced**). Trykk på **View**
 Fra https://classroom.udacity.com/courses/ud775/lessons/2980038599/concepts/33396087130923# (bilde)
 ```
 
+----
 #### Quiz 2:
 
 ```

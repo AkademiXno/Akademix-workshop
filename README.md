@@ -20,7 +20,7 @@ Du bør starte med Oppgave 1. Fullfører du oppgavene 1–7 har du lært alt du 
    * Spør hverandre
    * Sjekk dokumentasjonen: [Building and Running an Open edX Course](http://edx.readthedocs.io/projects/open-edx-building-and-running-a-course/en/open-release-eucalyptus.master)
 
-### [Oppgave 1](Oppgave_1/Oppgave_1.md): Kom i gang
+### [Oppgave 1](Oppgave_1/Oppgave_1.md#oppgave-1): Kom i gang
   **Mål**: Opprett konto på akademix.no. Bli kursutvikler i ditt eget test-kurs på i *AkademiX Studio* beta.akademix.no:18010.
   
   Trykk her for å starte [Oppgave 1](Oppgave_1/Oppgave_1.md)

@@ -11,23 +11,16 @@
 * 3. **The bronchial tree**: https://www.khanacademy.org/science/health-and-medicine/respiratory-system/respiratory-system-introduction/v/the-bronchial-tree
 * 4. **Inhaling and exhaling**: https://www.khanacademy.org/science/health-and-medicine/respiratory-system/respiratory-system-introduction/v/the-bronchial-treel
 * 5. **How does lung volume change?**: https://www.khanacademy.org/science/health-and-medicine/respiratory-system/respiratory-system-introduction/v/how-does-lung-volume-change
-
 * 6. **Alveolar gas equation - part 1**: https://www.khanacademy.org/science/health-and-medicine/respiratory-system/gas-exchange-jv/v/alveolar-gas-equation-part-1
-
 * 7. **Alveolar gas equation - part 2**: https://www.khanacademy.org/science/health-and-medicine/respiratory-system/gas-exchange-jv/v/alveolar-gas-equation-part-2
 
 ### Fra Khan Academy / Crash Course: [Crash Course World History](https://www.khanacademy.org/humanities/world-history/crashcourse-worldhistory)
 
 * 1. Introduksjon og **The Agricultural Revolution**: https://www.khanacademy.org/humanities/world-history/crashcourse-worldhistory/what-happens-when-you-stay-put-2/v/crash-course-world-history-01
-
 * 2. **Indus Valley civilization**: https://www.khanacademy.org/humanities/world-history/crashcourse-worldhistory/what-happens-when-you-stay-put-2/v/crash-course-world-history-02
-
 * 3. **Ancient Mesopotamia** : https://www.khanacademy.org/humanities/world-history/crashcourse-worldhistory/what-happens-when-you-stay-put-2/v/crash-course-world-history-03
-
 * 4. **Ancient Egypt**: https://www.khanacademy.org/humanities/world-history/crashcourse-worldhistory/what-happens-when-you-stay-put-2/v/crash-course-world-history-04
-
 * 5. **Greeks and Persians**: https://www.khanacademy.org/humanities/world-history/crashcourse-worldhistory/so-thats-where-that-comes-from-2/v/crash-course-world-history-05
-
 * 6. **Buddha and Ashoka**: https://www.khanacademy.org/humanities/world-history/crashcourse-worldhistory/so-thats-where-that-comes-from-2/v/crash-course-world-history-06
 
 
@@ -42,18 +35,14 @@
 * 6. Text: **Controlled experiments**: https://www.khanacademy.org/science/biology/intro-to-biology/science-of-biology/a/experiments-and-observations
 * 7. **The lungs and pulmanory system**: https://www.khanacademy.org/science/biology/human-biology/circulatory-pulmonary/v/the-lungs-and-pulmonary-system
 * 8. **Red blood cells **: https://www.khanacademy.org/science/biology/human-biology/circulatory-pulmonary/v/red-blood-cells
-
 * 9. **Circulatory system and the heart**: https://www.khanacademy.org/science/biology/human-biology/circulatory-pulmonary/v/circulatory-system-and-the-heart
-
 * 10. **Hemoglobin**: https://www.khanacademy.org/science/biology/human-biology/circulatory-pulmonary/v/hemoglobin
-
 * 11. Text: **Components of blood**: https://www.khanacademy.org/science/biology/human-biology/circulatory-pulmonary/a/components-of-the-blood
 
 
 ### Fra Khan Academy: [Micoreconomics](https://www.khanacademy.org/economics-finance-domain/microeconomics/supply-demand-equilibrium)
 
 * 1. **Introduction to Economics**: https://www.khanacademy.org/economics-finance-domain/microeconomics/supply-demand-equilibrium/economics-introduction/v/introduction-to-economics
-
 * 2. Tekst: **The law of demand** (fra Khan Academy)
 
 ```
@@ -94,9 +83,7 @@ Demand curves will be somewhat different for each product. They may appear relat
 
 In economic terminology, demand is not the same as quantity demanded. When economists talk about demand, they mean the relationship between a range of prices and the quantities demanded at those prices, as illustrated by a demand curve or a demand schedule. When economists talk about quantity demanded, they mean only a certain point on the demand curve or one quantity on the demand schedule. In short, demand refers to the curve, and quantity demanded refers to a specific point on the curve.
 ```
-
 * 3. **Law of demand**: https://www.khanacademy.org/economics-finance-domain/microeconomics/supply-demand-equilibrium/demand-curve-tutorial/v/law-of-demand
-
 * 4. **Price of related products and demand**: https://www.khanacademy.org/economics-finance-domain/microeconomics/supply-demand-equilibrium/demand-curve-tutorial/v/price-of-related-products-and-demand
 
 
@@ -205,10 +192,8 @@ Like Sarah said, there is a lot of research out there on reflection. If you want
 
 For a more in-depth look, check out this seminal 20-page paper on the topic.
 ```
-
 * 7. **Where do versions come from?**: https://www.youtube.com/watch?v=-cFdBWD_suY
 * 8. **Reflect: Using history for efficiency **:
-
 ```
 Reflect: Using History for Efficiency
 Now that you've learned about some version control systems, and how they can help you save the history of a file, go add the following question and your thoughts on it to your reflections file:
@@ -217,7 +202,6 @@ How could having easy access to the entire history of a file make you a more eff
 
 When you've updated your document, click "Next" to learn about some differences between these version control systems.
 ```
-
 * 9. **Intro to quiz 3**: https://www.youtube.com/watch?v=ynL0pIK0kVE
 
 

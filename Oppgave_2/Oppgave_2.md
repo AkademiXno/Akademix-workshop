@@ -19,7 +19,7 @@
 (iii) Trykk på knappen **+ New Subsection** og gi et navn til seksjonen (f.eks. "Velkommen"). Trykk så på **+ New Unit**.
 
 ----
-(iv) Trykk på knappen **Publish** i boksen til høyre og deretter **Preview**. Du blir da sendt til kurs-siden. Her ser du hva du har laget hittil, sett fra studentenes side. Ikke veldig spennende da det ikke er noe innhold. Innholdet kommer i Oppgave b).
+(iv) Trykk på knappen **Publish** i boksen til høyre og deretter **Preview**. Du blir da sendt til kurs-siden. Her ser du hva du har laget hittil, sett fra studentenes side. Ikke veldig spennende da det ikke er noe innhold. Innholdet legges til i Oppgave b).
 
 ![Første preview](first_preview.png)
 
@@ -53,13 +53,13 @@ Trykk på pilen til venstre to ganger. Studentene som tar kurset møter først d
 La oss endre video, tekst og oppgave.
 
 Trykk her for en rekke eksempler på videoer og tekst du kan bruke til å fylle kurset ditt (vi skal ta i bruk denne samlingen i alle oppgavene fremover): 
-[Ressurser til workshop](../Ressurser/ressurser.md).
+[Ressurser til workshop](../Ressurser/ressurser.md#ressurser).
 
 (i) Gå tilbake til video-enheten. Trykk på **EDIT**-knappen:
 
 ![Edit video](edit_video.png)
 
-Bytt ut **Default Video URL** med en video fra [Ressurser til workshop](../Ressurser/ressurser.md). Trykk **Publish**.
+Bytt ut **Default Video URL** med en video fra [Ressurser til workshop](../Ressurser/ressurser.md#ressurser). Trykk **Publish**.
 
 ----
 (ii) Gå til tekstenheten etter videoen ("Informasjon om kurset"). Trykk **EDIT** og skriv en kort tekst med informasjon om ditt kurs. For eksempel basert på følgende mal:

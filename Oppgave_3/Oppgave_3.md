@@ -8,7 +8,7 @@
 
 (i) Gå tilbake til Studio-fanen. Trykk på "Conten"-menyen helt øverst og velg "Outline". Velg "+ New Section" og kall denne for eksempel "What happens when you stay put".
 
-(ii) Legg til nye seksjoner via "+ New Section"-knappen og underseksjoner via "+ New Subsection" til du har noe som ligner dette. Hva du kaller seksjonene er valgfritt. Du kan f.eks. forsøke å gjenskape et av kursene lenket til under [Ressurser til workshop](../Ressurser/ressurser.md).
+(ii) Legg til nye seksjoner via "+ New Section"-knappen og underseksjoner via "+ New Subsection" til du har noe som ligner dette. Hva du kaller seksjonene er valgfritt. Du kan f.eks. forsøke å gjenskape et av kursene lenket til under [Ressurser til workshop](../Ressurser/ressurser.md). Følgende er fra Khan Acadmy / Crash Course:
 
 ![Kurs-outline](outline.png)
 
@@ -31,11 +31,11 @@ Du finner også spørsmålstyper ved å trykke på "Advanced"-knappen under "Add
 
 Se [dokumentasjonen](http://edx.readthedocs.io/projects/edx-partner-course-staff/en/latest/exercises_tools/index.html) for mer om de ulike oppgavetypene.
 
-(ii) Gå tilbake til "Content" --> "Outline". Under "Deleksamen", velg settings på hver av udnerseksjonene.
+(ii) Gå tilbake til "Content" --> "Outline". Under "Deleksamen", velg settings på hver av underseksjonene.
 
-![Settings subsection](advancedsubsection_settings.png)
+![Settings subsection](subsection_settings.png)
 
-Under "Grad as:" kan du sette at seksjonen skal være en "Midterm exam".
+Under "Grade as:" kan du sette at seksjonen skal være en "Midterm exam".
 
 (iii) Tilsvarende kan gjøres med andre oppgaver i kurset ditt. Du kan f.eks. velge at de skal regnes som "Homework".
 

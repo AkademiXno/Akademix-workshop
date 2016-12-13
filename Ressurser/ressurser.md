@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=OZbM1h3S-aA
 ### Fra Khan Academy: [Intro to biology](https://www.khanacademy.org/science/biology/intro-to-biology)
 
 #### 1.1. Text: **Preparing to study biology**:
-Lag en **Raw HTML"-blokk og lim inn følgende. Alternativt: formater teksten med den innebygde teksteditoren slik at den ligner på https://www.khanacademy.org/science/biology/intro-to-biology/what-is-biology/a/prep-to-study-biology
+Lag en **Raw HTML**-blokk og lim inn følgende. Alternativt: formater teksten med den innebygde teksteditoren slik at den ligner på https://www.khanacademy.org/science/biology/intro-to-biology/what-is-biology/a/prep-to-study-biology
 ```
 <h2>What should I know before starting biology?<h2>
 

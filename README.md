@@ -55,7 +55,7 @@ Du bør starte med Oppgave 1. Fullfører du oppgavene 1–7 har du lært alt du 
   
   Trykk her for å starte [Oppgave 7](Oppgave_7/Oppgave_7.md#oppgave-7)
 
-### [Oppgave 11](Oppgave_8/Oppgave_8.md#oppgave-8): Eksporter kurset (backup)
+### [Oppgave 8](Oppgave_8/Oppgave_8.md#oppgave-8): Eksporter kurset (backup)
   **Mål**: Eksporter kurset til fil. Fungerer som en backup.
   
   Trykk her for å starte [Oppgave 8](Oppgave_8/Oppgave_8.md#oppgave-8)

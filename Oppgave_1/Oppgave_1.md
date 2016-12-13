@@ -8,7 +8,7 @@
 ### a)
 Gå til https://beta.akademix.no. Dersom du ikke har registrert deg tidligere, trykk på "Register". 
 
-![Registrer deg](register.png)
+![Registrer deg](register2.png)
 
 <img src="register.png",width=120,height=120>
 

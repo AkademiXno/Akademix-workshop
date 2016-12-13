@@ -41,7 +41,7 @@ Du bør starte med Oppgave 1. Fullfører du oppgavene 1–7 har du lært alt du 
   Trykk her for å starte [Oppgave 4](Oppgave_4/Oppgave_4.md#oppgave-4)
 
 ### [Oppgave 5](Oppgave_5/Oppgave_5.md#oppgave-5): Grunnleggende innstillinger for kurset
-  **Mål**: Juster startdato, slutt-dato, karaktersetting og andre grunnleggende innstillinger. 
+  **Mål**: Juster startdato, slutt-dato, karaktersetting og legg til kursoppdateringer.
   
   Trykk her for å starte [Oppgave 5](Oppgave_5/Oppgave_5.md#oppgave-5)
 

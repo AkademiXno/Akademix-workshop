@@ -1,4 +1,4 @@
-# Oppgave 3
+# Oppgave 4
 
 ### Hva lærer du?
 * Hvordan modifisere kursbeskrivelsen som blir vist på https://beta.akademix.no
@@ -19,4 +19,4 @@
 
 Om du ønsker det kan du alternativt laste opp kursbilde fra egen maskin ved å bruke **Upload Course Image**. Dimensjonene på bildet må være tilpasset størrelsen det får av systemet. Eksperimenter deg frem for å finne passende dimenasjoner.
 
-Gjør deg litt kjent med de andre innstillingene under **Schedule & Details**.
+Gjør deg litt kjent med de andre innstillingene under **Schedule & Details** før du går tilbake til [startsiden](../README.md#oppgaver) og velger Oppgave 5.

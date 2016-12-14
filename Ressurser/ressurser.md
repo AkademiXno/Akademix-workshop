@@ -367,8 +367,8 @@ Lag en **Problem Builder**-blokk (finnes under **Advanced**). Trykk på **View**
 
 #### Quiz 1: Checkboxes
 
-```
 Lag en **Blank Advanced Problem**-boks og lim inn
+
 ```
 <problem>
   <Image>
@@ -411,7 +411,7 @@ Lag en **Blank Advanced Problem**-boks og lim inn
 <problem>
 <p>Hva er kallenavnet til dette dyret?</p>
   <Image>
-        <img width="640" height="425" alt="Elg" src="https://github.com/alu042/Akademix-workshop/blob/master/Ressurser/assets/elg.png"/>
+        <img width="640" height="425" alt="Elg" src="https://github.com/alu042/Akademix-workshop/blob/master/Ressurser/assets/elg.jpg"/>
     </Image>
 
 <p>

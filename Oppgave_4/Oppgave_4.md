@@ -9,7 +9,7 @@
 (i) Trykk på **Setting** og **Schedule & Details**. Trykk på lenken under **Course Summary Page**. Målet til denne oppgaven er å endre denne beskrivelsen.
 
 ----
-(ii) Under **Schedule & Details**, rull ned til **Introducing Your Course**. I boksen **Course Overview** finner du HTML-koden for websiden om kurset. Teksten inneholder forslag til innhold. Gjør noen endringer her og der, trykk **Save Changes**. Gå deretter til lenken øverst på siden for å se effekten av dine endringer.
+(ii) Under **Schedule & Details**, rull ned til **Introducing Your Course**. I boksen **Course Overview** finner du HTML-koden for websiden om kurset. Teksten inneholder forslag til innhold. Gjør noen endringer her og der, trykk **Save Changes**. Gå deretter til lenken øverst på samme side for å se effekten av dine endringer.
 
 ----
 (iii) Under **Course Image** finner du kursbildet som vises på https://beta.akademix.no. Endre URL-en til bildet (som starter med "/asset-v1") til følgende: https://beta.akademix.no/asset-v1:HiB+Oppfrisk+2016_T2+type@asset+block@oppfrisk.jpg. Trykk **Save Changes**.

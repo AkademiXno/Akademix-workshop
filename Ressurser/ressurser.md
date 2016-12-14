@@ -1,31 +1,36 @@
 # Ressurser
 
+Her er noen ressurser du kan bruke til å sy sammen et lite kurs. Fokus i workshopen er ikke på **innhold**, men på struktur. Ikke legg mye vekt på å lage et **interessant** kurs (det kan du gjøre senere), hverken på video- eller oppgavefronten.
+
+Samtidig kan ressursene listet her kanskje fungere som inspirasjon når du senere skal lage dine egne videoer.
 
 ## Videoer
 
 
 ### Fra Khan Academy / Crash Course: [Crash Course World History](https://www.khanacademy.org/humanities/world-history/crashcourse-worldhistory)
 
-#### What happens when you stay put?
-##### 1. Introduksjon og **The Agricultural Revolution**:
+#### 1. What happens when you stay put?
+##### 1.1 Introduksjon og **The Agricultural Revolution**:
 https://www.youtube.com/watch?v=Z_P5rqxeBVA
-##### 2. **Indus Valley civilization**:
+##### 1.2. **Indus Valley civilization**:
 https://www.youtube.com/watch?v=73yFDlgqPio
-##### 3. **Ancient Mesopotamia** :
+##### 1.3. **Ancient Mesopotamia** :
 https://www.youtube.com/watch?v=EUGCai8y2Uw
-##### 4. **Ancient Egypt**:
+##### 1.4. **Ancient Egypt**:
 https://www.youtube.com/watch?v=Hpfs8uEo9WA
-#### Oh, so that's where that comes from!
-##### 5. **Greeks and Persians**:
+#### 2. Oh, so that's where that comes from!
+##### 2.1 **Greeks and Persians**:
 https://www.youtube.com/watch?v=7HUYGoJ2bD0
-##### 6. **Buddha and Ashoka**:
+##### 2.2 **Buddha and Ashoka**:
 https://www.youtube.com/watch?v=OZbM1h3S-aA
 
 
 ----
 ### Fra Khan Academy: [Intro to biology](https://www.khanacademy.org/science/biology/intro-to-biology)
 
-#### 1.1. Text: **Preparing to study biology**:
+#### 1. Welcome to biology
+
+##### 1.1. Text: **Preparing to study biology**:
 Lag en **Raw HTML**-blokk og lim inn følgende. Alternativt: formater teksten med den innebygde teksteditoren slik at den ligner på https://www.khanacademy.org/science/biology/intro-to-biology/what-is-biology/a/prep-to-study-biology
 ```
 <h2>What should I know before starting biology?<h2>
@@ -95,9 +100,9 @@ biochemistry.
 
 
 ```
-#### 1.2. **Biology overview**:
+##### 1.2. **Biology overview**:
 https://www.youtube.com/watch?v=dQCsA2cCdvA
-#### 1.3. Text: **What is life?**:
+##### 1.3. Text: **What is life?**:
 https://www.khanacademy.org/science/biology/intro-to-biology/what-is-biology/a/what-is-life
 ```
 <h2>Introduction</h2>
@@ -137,13 +142,15 @@ living organisms.
 </p>
 
 ```
-#### 2.1. **The scientific method**:
+#### 2. The science of biology
+##### 2.1. **The scientific method**:
 https://www.youtube.com/watch?v=N6IAzlugWw0
-#### 2.2. Text: **The scientfic method**:
+##### 2.2. Text: **The scientfic method**:
 Forsøk å gjenskape (deler av) tekstblokken https://www.khanacademy.org/science/biology/intro-to-biology/science-of-biology/a/the-science-of-biology
-#### 3.1. **The lungs and pulmanory system**:
+#### 3. Circulatory and pulmanory systems
+##### 3.1. **The lungs and pulmanory system**:
 https://www.youtube.com/watch?v=SPGRkexI_cs
-#### 3.2. **Red blood cells**:
+##### 3.2. **Red blood cells**:
 https://www.youtube.com/watch?v=fLKOBQ6cZHA
 
 
@@ -151,34 +158,40 @@ https://www.youtube.com/watch?v=fLKOBQ6cZHA
 ### Fra Udacity: [Intro to the design of everyday things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
 
 
-#### 1.1 **Welcome to the course**:
+#### 1. Lesson 1: Affordances and Signifiers
+##### 1.1 **Welcome to the course**:
 https://www.youtube.com/watch?v=fy-J_E55rw0
-#### 1.2 **Throw the box**:
+##### 1.2 **Throw the box**:
 https://www.youtube.com/watch?v=tZkP9evOAtI
-#### 1.3 **Introvideo til Quiz 1 (se nedenfor for quiz)**:
+##### 1.3 **Introvideo til Quiz 1 (se nedenfor for quiz)**:
 https://www.youtube.com/watch?v=ydiqjH7Bwmw
-#### 1.4 **Interview with Tim Brown**:
+##### 1.4 **Interview with Tim Brown**:
 https://www.youtube.com/watch?v=859ZOXwbdsg
-#### 1.5 **Introvideo til Quiz 2**:
+##### 1.5 **Introvideo til Quiz 2**:
 https://www.youtube.com/watch?v=Fjxu2_cyPdo
-#### 2.1 **Introduction to conceptual models**:
+#### 2. Conceptual Model & System Image
+##### 2.1 **Introduction to conceptual models**:
 https://www.youtube.com/watch?v=pAOyWFOFhsg
+#### 3. Gulfs of Evaluation & Execution
+##### 3.1. **Lesson 3 Intro**
+https://www.youtube.com/watch?v=89mGNiqkCKk
 
 ----
 ### Fra Udacity: [How to use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
 
-#### 1. **Introduction**:
+#### 1. Navigating a commit history
+##### 1.1 **Introduction**:
 https://www.youtube.com/watch?v=Ytux4IOAR_s
-#### 2. **Course overview**:
+##### 1.2. **Course overview**:
 https://www.youtube.com/watch?v=ht7vYtWOazI
-#### 3. **Introvideo to Quiz 1**:
+##### 1.3. **Introvideo to Quiz 1**:
 https://www.youtube.com/watch?v=PO5IwZqFdMc
-#### 4. **Introvideo to Quiz 2**:
+##### 1.4. **Introvideo to Quiz 2**:
 https://www.youtube.com/watch?v=MsmbtwibNQU
-#### 5. **Reflections**:
+##### 1.5. **Reflections**:
 https://www.youtube.com/watch?v=tL_sLYEFZq4
-#### 6. Text **Reflect: using diff to Find Bugs**: Lim følgende inn i en **Raw HTML**-blokk:
+##### 1.6. Text **Reflect: using diff to Find Bugs**: Lim følgende inn i en **Raw HTML**-blokk:
 
 ```
 <h3>Reflect: Using diff to Find Bugs</h3>
@@ -235,8 +248,23 @@ reflections directory and rename it, then add your response after the first prom
 
 <p>....</p>
 ```
-#### 7. **Where do versions come from?**:
+##### 1.7. **Where do versions come from?**:
 https://www.youtube.com/watch?v=-cFdBWD_suY
+#### 2. Problem set 1
+##### Text 2.1. **Problem set introduction**
+```
+<h3>Purpose of the problem set</h3>
+
+<p>
+The questions in this problem set are designed not only to give extra practice with the
+concepts from Lesson 1, but also to help you deepen your understanding of those concepts.
+Some of the questions will be tricky, and you're not expected to get every question right
+on the first try. The purpose is for you to learn, so have fun!
+</p>
+```
+#### 3. Creating and modifying a repository
+##### 3.1. **Lesson 2 intro**
+https://www.youtube.com/watch?v=F6tSkw2LgcY
 
 ----
 ### Fra forelesning
@@ -250,19 +278,21 @@ Gå til Studio for å legge til denne videoen. Trykk **Edit** og deretter **ADVA
 ----
 ### Fra Khan Academy: [Respiratory system](https://www.khanacademy.org/science/health-and-medicine/respiratory-system)
 
-#### **Meet the lungs**:
+#### 1. Respiratory system introduction
+##### 1.1. **Meet the lungs**:
 https://www.youtube.com/watch?v=qGiPZf7njqY
-#### **People and plants**:
+##### 1.2. **People and plants**:
 https://www.youtube.com/watch?v=lzWUG4H5QBo
-#### **The bronchial tree**:
+##### 1.3. **The bronchial tree**:
 https://www.youtube.com/watch?v=Z-yv3Yq4Aw4
-#### **Inhaling and exhaling**:
+##### 1.4. **Inhaling and exhaling**:
 https://www.youtube.com/watch?v=mykrnTh1tz8
-#### **How does lung volume change?**:
+##### 1.5. **How does lung volume change?**:
 https://www.youtube.com/watch?v=dTsUyXXudvA
-#### **Alveolar gas equation - part 1**:
+#### 2. Gas exchange
+##### 2.1. **Alveolar gas equation - part 1**:
 https://www.youtube.com/watch?v=zZX9jJqSlQs
-#### **Alveolar gas equation - part 2**:
+##### 2.2. **Alveolar gas equation - part 2**:
 https://www.youtube.com/watch?v=xH5Y3Kmx82w
 
 ----
@@ -335,15 +365,38 @@ Lag en **Problem Builder**-blokk (finnes under **Advanced**). Trykk på **View**
 ----
 ### How to use Git and GitHub
 
-#### Quiz 1:
+#### Quiz 1: Numerisk respons
 
+Lag en **Raw HTML**-blokk og skriv inn
 ```
-Fra https://classroom.udacity.com/courses/ud775/lessons/2980038599/concepts/33396087130923# (bilde)
+<p>
+<img width="100%" src="https://lh5.ggpht.com/hPqW4KD2S6jRKVN5QHoiVZRFDRkSp9F1a8yIqFWyQ-gHXIKoAD5BJn8FVafu6Vam2y1GBnCOr2kKasidiYE6=s0#w=1440&h=810">
+</p>
+```
+Lag deretter en "checkbox"-oppgave og lim inn
+```
+>>Hvilke linjer er endret?<<
+[ ] Linje 1 
+[ ] Linje 2
+[ ] Linje 3
+[ ] Linje 4
+[ ] Linje 5
+[x] Linje 6
+[ ] Linje 7
+[ ] Linje 8
+[ ] Linje 9
+[ ] Linje 10
+[ ] Linje 11
+[ ] Linje 12
+[ ] Linje 13
+[ ] Linje 14
+[ ] Linje 15
+[x] Linje 16
+[x] Linje 17
+[x] Linje 18
+[ ] Linje 19
+[ ] Linje 20
 ```
 
 ----
-#### Quiz 2:
 
-```
-Fra  https://classroom.udacity.com/courses/ud775/lessons/2980038599/concepts/29607789270923# (textbox)
-```

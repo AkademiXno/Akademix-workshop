@@ -17,6 +17,6 @@
 
 ### Ekstra
 
-Om du ønsker det kan du alternativt laste opp kursbilde fra egen maskin ved å bruke **Upload Course Image**. Dimensjonene på bildet må være tilpasset størrelsen det får av systemet. Eksperimenter deg frem for å finne passende dimenasjoner.
+Om du ønsker det kan du alternativt laste opp kursbilde fra egen maskin ved å bruke **Upload Course Image**. Dimensjonene på bildet må være tilpasset størrelsen det får av systemet. Eksperimenter deg frem for å finne passende dimensjoner.
 
 Gjør deg litt kjent med de andre innstillingene under **Schedule & Details** før du går tilbake til [startsiden](../README.md#oppgaver) og velger Oppgave 5.

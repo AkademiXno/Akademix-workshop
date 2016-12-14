@@ -11,7 +11,7 @@
 
 ![Settings](settings.png)
 
-Gjør deg litt kjent med hva som kan endres her.
+Gjør deg litt kjent med hva som kan endres på denne siden.
 
 ----
 (ii) Sett startdato og sluttdato for kurset til henholdsvis 01.01.2017 og 30.06.2017. Trykk **Save Changes**.

@@ -10,7 +10,7 @@
 
 ## Introduksjon
 Slides fra introduksjonen finner du her:    
-[Intropresentasjon](intro-presentasjon/workshop2016.html)
+[Intropresentasjon](http://alexander.lundervold.com/slides/AkademiX-workshop-2016/intro-presentasjon/workshop2016.html)
 
 ## Oppgaver
 Du bør starte med Oppgave 1. Fullfører du oppgavene 1–7 har du lært alt du trenger for å lage ditt eget AkademiX-kurs. De resterende oppgavene omhandler avansert funksjonalitet.

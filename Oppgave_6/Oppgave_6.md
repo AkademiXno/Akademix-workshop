@@ -21,6 +21,8 @@ Trykk på **Instructor**:
 
 Under **MEMBERSHIP** finner du funksjonalitet for å legge til studenter (og "Staff"). Legg til et par studenter (blant workshop-deltakerne eller andre).
 
+Merk at om startdato er frem i tid får ikke studentene logget seg inn. Forsøk å legge til betatestere og sett antall dager med betatesting slik at kurset blir tilgjengelig for disse. Hint: under **Advanced Settings** i Studio.
+
 
 ### Ekstra
 

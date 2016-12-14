@@ -13,3 +13,6 @@ Filen kan importeres igjen og en gjenoppretter kurset slik det så ut. Dette fun
 
 Backup av øvrige elementer (som student-data) kan ikke utføres av kursutviklere, kun av driftspersonell.
 
+----
+
+Gå tilbake til [startsiden](../README.md#oppgaver) og velg Oppgave 9.

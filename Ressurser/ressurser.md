@@ -365,16 +365,16 @@ Lag en **Problem Builder**-blokk (finnes under **Advanced**). Trykk på **View**
 ----
 ### How to use Git and GitHub
 
-#### Quiz 1: Numerisk respons
+#### Quiz 1: Checkboxes
 
-Lag en **Raw HTML**-blokk og skriv inn
 ```
-<p>
-<img width="100%" src="https://lh5.ggpht.com/hPqW4KD2S6jRKVN5QHoiVZRFDRkSp9F1a8yIqFWyQ-gHXIKoAD5BJn8FVafu6Vam2y1GBnCOr2kKasidiYE6=s0#w=1440&h=810">
-</p>
+Lag en **Blank Advanced Problem**-boks og lim inn
 ```
-Lag deretter en "checkbox"-oppgave og lim inn
-```
+<problem>
+  <Image>
+        <img width="640" height="425" alt="Quiz-bilde" src='https://github.com/alu042/Akademix-workshop/blob/master/Ressurser/assets/git-quiz2.png'/>
+    </Image>
+
 >>Hvilke linjer er endret?<<
 [ ] Linje 1 
 [ ] Linje 2
@@ -396,7 +396,52 @@ Lag deretter en "checkbox"-oppgave og lim inn
 [x] Linje 18
 [ ] Linje 19
 [ ] Linje 20
+
+</problem>
 ```
 
 ----
 
+
+## Diverse oppgaver
+
+### 1.
+
+```
+<problem>
+<p>Hva er kallenavnet til dette dyret?</p>
+  <Image>
+        <img width="640" height="425" alt="Elg" src="https://github.com/alu042/Akademix-workshop/blob/master/Ressurser/assets/elg.png"/>
+    </Image>
+
+<p>
+<optionresponse>
+  <optioninput label="Hva er kallenavnet til dette dyret?" options="('Skogens hjort','Skogens konge','Jungeldyret')" correct="Skogens konge"></optioninput>
+</optionresponse>
+  </p>
+ <solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p> I Norge kalles elgen «skogens konge», noe som nok har sammenheng med at den er det største dyret i de norske skoger.</p>
+ 
+</div>
+</solution>
+
+</problem>
+```
+
+### 2.
+
+Lag en **Blank Common Problem**-blokk og lim inn
+```
+>>Hva heter Norges hovedstad?<<
+
+= Oslo
+
+[explanation]
+Oslo er Norges hovedstad og største by. 
+[explanation]
+```
+
+----

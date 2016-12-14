@@ -12,6 +12,8 @@
 
 Legg til et nytt innlegg ved å trykke **New Post**.
 
+-----
+
 (ii) For å legge til nye diskusjonstema (i tillegg til "General") gå til Studio, trykk **Advanced Settings**, naviger til **Discussion Topic Mapping** og skriv inn:
 ```
 {
@@ -23,8 +25,6 @@ Legg til et nytt innlegg ved å trykke **New Post**.
    }
 }
 ```
-
-**Legge til kategorier**
 
 
 
@@ -41,6 +41,8 @@ Du finner mer om forum-funksjonaliteten [her](http://edx.readthedocs.io/projects
 Legg til en ny artikkel ved å trykke **+ Add article**.
 
 Wikien kan f.eks. brukes til FAQs, dele kursinformasjon, dele nyttige ressurser, errata, samle tilbakemeldinger, etc.
+
+----
 
 (ii) For å deaktivere wikien, gå til Studio, velg **Content** og deretter **Pages**. Trykk på "øyet" i Wiki-raden.
 

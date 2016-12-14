@@ -12,6 +12,7 @@
 
 Last opp en valgfri fil i kurset ditt, og link til den i en HTML-blokk. Om det er et bilde kan det embeddes i HTML ved å bruke en "<img>"-tag.
 
+----
 (ii) Et alternativ til å laste opp filer til serveren er å bruke linker til Dropbox e.l. Sørg for at dokumentene du lenker til er aksesserbare ("public"). Maksimal filstørrelse i Studio er 50 MB. Om du vil legge til større filer i kurset ditt er Dropbox, Box, YouTube, SoundCloud og lignende veien å gå.
 
 Forsøk å legge til en fil via en ekstern URL.

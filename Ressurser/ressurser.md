@@ -423,7 +423,8 @@ Lag en **Blank Advanced Problem**-boks og lim inn
 <div class="detailed-solution">
 <p>Explanation</p>
 
-<p> I Norge kalles elgen «skogens konge», noe som nok har sammenheng med at den er det største dyret i de norske skoger.</p>
+<p> I Norge kalles elgen «skogens konge», noe som nok har sammenheng med at den er det største dyret i
+de norske skoger.</p>
  
 </div>
 </solution>

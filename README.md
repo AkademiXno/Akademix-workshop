@@ -9,8 +9,7 @@
   * **Hands-on**: Deltakerne får erfaring med kursutvikling på AkademiX gjennom å løse en rekke oppgaver, i stigende grad av kompleksitet. 
 
 ## Introduksjon
-Slides fra introduksjonen finner du her:    
-[Intropresentasjon](http://alexander.lundervold.com/slides/AkademiX-workshop-2016/intro-presentasjon/workshop2016.html)
+Slides fra introduksjonen finner du her: [Intropresentasjon](http://alexander.lundervold.com/slides/AkademiX-workshop-2016/intro-presentasjon/workshop2016.html) (Trykk SPACE for å navigere fremover)
 
 ## Oppgaver
 Du bør starte med Oppgave 1. Fullfører du oppgavene 1–7 har du lært alt du trenger for å lage ditt eget AkademiX-kurs. De resterende oppgavene omhandler avansert funksjonalitet.

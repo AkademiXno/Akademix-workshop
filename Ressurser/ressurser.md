@@ -1,6 +1,6 @@
 # Ressurser
 
-Her er noen ressurser du kan bruke til å sy sammen et lite kurs. Fokus i workshopen er ikke på **innhold**, men på struktur. Ikke legg mye vekt på å lage et **interessant** kurs (det kan du gjøre senere), hverken på video- eller oppgavefronten.
+Her er noen ressurser du kan bruke til å sy sammen et lite kurs. Fokus i workshopen er ikke på **innhold**, men på struktur. *Ikke bry deg om å lage et interessant kurs* (det kan du gjøre senere), hverken på video- eller oppgavefronten.
 
 Samtidig kan ressursene listet her kanskje fungere som inspirasjon når du senere skal lage dine egne videoer.
 

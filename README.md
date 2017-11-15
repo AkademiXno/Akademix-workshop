@@ -1,17 +1,17 @@
 # AkademiX-workshop-OERCompBiomed
 ### Alexander Lundervold, inst. for data- og realfag
 
-> En hands-on workshop der en får eksperimentert med kursutvikling på den Open edX-baserte plattformen akademix.no.
+> A hands-on workshop for experimenting with course development on the Open edX-based platform nordbiomed.akademix.no.
 
-## Agenda for workshop
+## Agenda for the workshop
 
-  * **Introduksjon**: Kort om plattformen. Hva er den nå? Hva kan den bli? Hva er på vei?
+  * **Introduction**: Kort om plattformen. Hva er den nå? Hva kan den bli? Hva er på vei?
   * **Hands-on**: Deltakerne får erfaring med kursutvikling på AkademiX gjennom å løse en rekke oppgaver, i stigende grad av kompleksitet. 
 
 ## Introduksjon
 Slides fra introduksjonen finner du her: [Intropresentasjon](http://alexander.lundervold.com/slides/AkademiX-workshop-2016/intro-presentasjon/workshop2016.html) (Trykk SPACE for å navigere fremover)
 
-## Oppgaver
+## Tasks
 Du bør starte med Oppgave 1. Fullfører du oppgavene 1–7 har du lært alt du trenger for å lage ditt eget AkademiX-kurs. De resterende oppgavene omhandler avansert funksjonalitet.
 
 ## Hjelp?
@@ -19,7 +19,7 @@ Du bør starte med Oppgave 1. Fullfører du oppgavene 1–7 har du lært alt du 
    * Spør hverandre
    * Sjekk dokumentasjonen: [Building and Running an Open edX Course](http://edx.readthedocs.io/projects/open-edx-building-and-running-a-course/en/open-release-eucalyptus.master)
 
-### [Oppgave 1](Oppgave_1/Oppgave_1.md#oppgave-1): Kom i gang
+### [Task 1](Task_1/Task_1.md#oppgave-1): Get started
   **Mål**: Opprett konto på akademix.no. Bli kursutvikler i ditt eget test-kurs på i *AkademiX Studio* https://beta.akademix.no:18010.
   
   Trykk her for å starte [Oppgave 1](Oppgave_1/Oppgave_1.md#oppgave-1)

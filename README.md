@@ -20,7 +20,7 @@ The remaining tasks addresses more advanced functionality in Open edX.
    * Ask a peer
    * Check the documentation: [Building and Running an Open edX Course](http://edx.readthedocs.io/projects/open-edx-building-and-running-a-course/en/open-release-eucalyptus.master)
 
-### [Task 1](Task_1/Task_1.md#tyask-1): Getting started
+### [Task 1](Task_1/Task_1.md#task-1): Getting started
   **Aim**: Establish an user account on akademix.no. Become a developer of your own test-course on *AkademiX Studio* https://akademix.no:18010.
   
   Click here to start [Task 1](Task_1/Task_1.md#task-1)

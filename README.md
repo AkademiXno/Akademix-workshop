@@ -40,6 +40,11 @@ The remaining tasks addresses more advanced functionality in Open edX.
 
   Click here to start [Task 4](Task_4/Task_4.md#task-4)
 
+
+---
+
+## Extra 
+
 ### [Task 5](Task_5/Task_5.md#task-5): Basic settings for the course
   **Aim**: Select / adjust date for start and end of the course, procedures for grading, adding course updates.
 

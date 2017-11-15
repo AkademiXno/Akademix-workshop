@@ -1,42 +1,44 @@
-# Oppgave 2
+# Task 2
 
-### Hva lærer du?
-* Hvordan opprette seksjoner og moduler i kurset
-* Hvordan legge til en video og tekst (HTML)
-* Hvordan legge til en multiple choice-oppgave
+### What you'll learn
+* How to create sections and modules in the course
+* How to add videos and text to the course
+* How to add exercises (a multiple choice exercise, for now)
 
 
 ### a)
 
-(i) Logg inn på ditt testkurs i [AkademiX Studio](https://beta.akademix.no:18010).
+(i) Log in to your course in the [AkademiX Studio](https://akademix.no:18010).
 
 ----
-(ii) Trykk på knappen **+ New Section** og gi et navn til seksjonen (f.eks. "Introduksjon")
+(ii) Click the button **+ New Section** and name the section (f.ex. "Introduction")
 
-![Ny seksjon](new_section.png)
-
-----
-(iii) Trykk på knappen **+ New Subsection** og gi et navn til seksjonen (f.eks. "Velkommen"). Trykk så på **+ New Unit**.
+![New section](new_section.png)
 
 ----
-(iv) Trykk på knappen **Publish** i boksen til høyre og deretter **Preview**. Du blir da sendt til kurs-siden. Her ser du hva du har laget hittil, sett fra studentenes side. Ikke veldig spennende da det ikke er noe innhold. Innholdet legges til i Oppgave b).
+(iii) Click the button **+ New Subsection** and provide a name for the subsection (f.ex. "Welcome"). Then click **+ New Unit**.
 
-![Første preview](first_preview.png)
+----
+(iv) Click **Publish** in the box on the right-hand side, and then **Preview**. You will be sent to the course page. Here you can see what you've created so far, as it will be seen by the students. Not very exciting yet, because there is no content.. Content will be added in Task b).
+
+
+![First preview](first_preview.png)
 
 ### b)
 
-(i) Gå tilbake til AkademiX Studio-fanen i nettleseren. Velg **Video** under **Add New Component** i enheten du laget i forrige oppgave. En default-video blir da lagt til. Behold denne foreløpig. Trykk på blyantsymbolet øverst på siden for å velge et navn på enheten (f.eks. Introduksjonsvideo). Trykk deretter **Publish**.
+(i) Go back to the AkademiX Studio page in your browser. Select **Vidoe** under **Add New Component** in the Unit you created previously. A default placeholder video will then be added. Keep this for now. Click on the edit symbol at the top of the page to give a name to the Unit (f.ex. Video introduction). Click **Publish**.
+
 
 ----
-(ii) Velg **+ New Unit** i menyen helt nederst til høyre
+(ii) Select **+ New Unit** in the menu in the lower right-hand side.
 
-![Ny enhet](new_unit_in_unit.png)
-
-----
-(iii) Gi et navn til denne enheten (f.eks. "Informasjon om kurset"). Trykk på **HTML**-knappen og velg **Text**.
+![New unit](new_unit_in_unit.png)
 
 ----
-(iv) Trykk på **Edit**-knappen (ved siden av øyet). Du får da opp en teksteditor. Skriv f.eks. "Placeholder" her. Vi skal bytte ut teksten senere. Trykk **Save**, og **Publish**.
+(iii) Name the unit (f.ex. "Information about the course"). Click the **HTML** button and choose **Text**.
+
+----
+(iv) Click the **Edit** button (next to the eye). A text editor will appear. Write something here (f.ex. "Placeholder"). We'll change the text later. Click **Save** and **Publish**Du får da opp en teksteditor. Skriv f.eks. "Placeholder" her. Vi skal bytte ut teksten senere. Trykk **Save**, og **Publish**.
 
 ----
 (v) Trykk på **+ New Unit** i menyen nederst til høyre. Gi et navn til denne (f.eks. "Spørsmål"). Trykk på den grønne **Problem**-knappen og velg **Multiple Choice**. Trykk deretter **Publish**.

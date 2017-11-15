@@ -9,7 +9,7 @@
   * **Hands-on**: Particpants learns how to develop a course on the AkademiX platform by solving a series of tasks with increasing complexity. 
 
 ## Introduction
-You will find the Slides from the introduction here: [Intro presentation](http://alexander.lundervold.com/slides/AkademiX-workshop-2016/intro-presentasjon/workshop2016.html) (press SPACE move forwards, ESC for an overview of the slides)
+You will find the Slides from the introduction here: [Intro presentation](http://alexander.lundervold.com/slides/AkademiX-workshop-OERCompBiomed/present_OERCompBiomed_kickoff.html) (press SPACE move forwards, ESC for an overview of the slides)
 
 ## Tasks
 You should start with Task 1. When you have completed Tasks 1–7 you will be able to produce your own AkademiX course.

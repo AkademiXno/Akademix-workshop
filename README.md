@@ -1,4 +1,4 @@
-# AkademiX-workshop, AIØ, des. 2016
+# AkademiX-workshop-OERCompBiomed
 ### Alexander Lundervold, inst. for data- og realfag
 
 > En hands-on workshop der en får eksperimentert med kursutvikling på den Open edX-baserte plattformen akademix.no.

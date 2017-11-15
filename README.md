@@ -1,15 +1,15 @@
 # AkademiX-workshop-OERCompBiomed
-### Kick-off 17-Nov-2017
+### Kick-off   (17-Nov-2017)
 
 > A hands-on workshop for experimenting with course development on the Open edX-based platform nordbiomed.akademix.no.
 
 ## Agenda for the workshop
 
-  * **Introduction**: Briefly abot the platform. What it is now? What it might become? What is planned for?
-  * **Hands-on**: Particpants learns how to develop courses on the AkademiX platform by solving a series of tasks with increasing complexity. 
+  * **Introduction**: Briefly about the platform. What it is now? What it might become? What is planned for?
+  * **Hands-on**: Particpants learns how to develop a course on the AkademiX platform by solving a series of tasks with increasing complexity. 
 
 ## Introduction
-You will find the Slides from the introduction here: [Intro-presentation](http://alexander.lundervold.com/slides/AkademiX-workshop-2016/intro-presentasjon/workshop2016.html) (Push SPACE to proceed)
+You will find the Slides from the introduction here: [Intro-presentation](http://alexander.lundervold.com/slides/AkademiX-workshop-2016/intro-presentasjon/workshop2016.html) (press SPACE to proceed)
 
 ## Tasks
 You should start with Task 1. When you have completed Tasks 1–7 you will be able to produce your own AkademiX course.
@@ -23,55 +23,56 @@ The remaining tasks addresses more advanced functionality in Open edX.
 ### [Task 1](Task_1/Task_1.md#tyask-1): Getting started
   **Aim**: Establish an user account on akademix.no. Become a developer of your own test-course on *AkademiX Studio* https://akademix.no:18010.
   
-  Push here to start [Task 1](Task_1/Task_1.md#task-1)
+  Click here to start [Task 1](Task_1/Task_1.md#task-1)
 
 ### [Task 2](Task_2/Task_2.md#task-2): Construct your first course module
   **Aim**: Establish a course module incorporating a video, some text, and an excercise.
 
-  Push here to start [Task 2](Task_2/Task_2.md#task-2)
+  Click here to start [Task 2](Task_2/Task_2.md#task-2)
   
-### [Oppgave 3](Oppgave_3/Oppgave_3.md#oppgave-3): Lag rammeverket til et helt kurs
-  **Mål**: Lag seksjoner og underseksjoner for et helt nettkurs. Med obligatoriske oppgaver, deleksamen og avsluttende eksamen.
-  
-  Trykk her for å starte [Oppgave 3](Oppgave_3/Oppgave_3.md#oppgave-3)
+### [Task 3](Task_3/Task_3.md#task-3): Construct the framework for a complete course
+  **Aim**: Make sections and subsections for a e-learning course, including assignments, midterm and a final exam.
 
-### [Oppgave 4](Oppgave_4/Oppgave_4.md#oppgave-4): Kursbeskrivelse
-  **Mål**: Skriv kursbeskrivelse ([Eksempel](https://beta.akademix.no/courses/course-v1:UiBx+ELMED219+January_Elective/about)). 
-  
-  Trykk her for å starte [Oppgave 4](Oppgave_4/Oppgave_4.md#oppgave-4)
+  Click here to start [Task 3](Task_3/Task_3.md#task-3)
 
-### [Oppgave 5](Oppgave_5/Oppgave_5.md#oppgave-5): Grunnleggende innstillinger for kurset
-  **Mål**: Juster startdato, slutt-dato, karaktersetting og legg til kursoppdateringer.
-  
-  Trykk her for å starte [Oppgave 5](Oppgave_5/Oppgave_5.md#oppgave-5)
+### [Task 4](Task_4/Task_4.md#task-4): Course description
+  **Aim**: Make a course description ([Example](https://beta.akademix.no/courses/course-v1:UiBx+ELMED219+January_Elective/about)). 
 
-### [Oppgave 6](Oppgave_6/Oppgave_6.md#oppgave-6): Legg til studenter og ansatte
-  **Mål**: Legg til medansvarlige for kurset (andre ansatte, studiekoordinator, studentassistenter etc). Flere alternativ for å legge til studenter: la de melde seg selv på; importer fra liste. 
-  
-  Trykk her for å starte [Oppgave 6](Oppgave_6/Oppgave_6.md#oppgave-6)
+  Click here to start [Task 4](Task_4/Task_4.md#task-4)
 
-### [Oppgave 7](Oppgave_7/Oppgave_7.md#oppgave-7): Lanser kurs
-  **Mål**: Gjør kurset tilgjengelig for studentene. 
-  
-  Trykk her for å starte [Oppgave 7](Oppgave_7/Oppgave_7.md#oppgave-7)
+### [Task 5](Task_5/Task_5.md#task-5): Basic settings for the course
+  **Aim**: Select / adjust date for start and end of the course, procedures for grading, adding course updates.
 
-### [Oppgave 8](Oppgave_8/Oppgave_8.md#oppgave-8): Eksporter kurset (backup)
-  **Mål**: Eksporter kurset til fil. Fungerer som en backup.
-  
-  Trykk her for å starte [Oppgave 8](Oppgave_8/Oppgave_8.md#oppgave-8)
-  
-### [Oppgave 9](Oppgave_9/Oppgave_9.md#oppgave-9): Forum og wiki
-  **Mål**: Bli kjent med det innebygde kursforumet og kurswikien.
-  
-  Trykk her for å starte [Oppgave 9](Oppgave_9/Oppgave_9.md#oppgave-9)
+  Click here to start [Task 5](Task_5/Task_5.md#task-5)
 
-### [Oppgave 10](Oppgave_10/Oppgave_10.md#oppgave-10): Legg til filer og handouts
-  **Mål**: Legg til filer brukt i kurset, samt handouts til studentene. Legg til lærebøker.
-  
-  Trykk her for å starte [Oppgave 10](Oppgave_10/Oppgave_10.md#oppgave-10)
+### [Task 6](Task_6/Task_6.md#task-6): Add students and staff to the course
+  **Aim**: Add other course developers / testers to the course  (other staff, study coordinatorts, teaching assistants,  etc). Multiple options for adding students: self enrollment; import from list. 
 
-### [Oppgave 11](Oppgave_11/Oppgave_11.md#oppgave-11): Avanserte oppgavetyper
-  **Mål**: Legge til mer avanserte vurderingsformer og annet innhold: peer assessment, Google eller MS-dokumenter, programmer oppgaver i Python, eksternt innhold.
+  Click here to start [Task 6](Task_6/Task_6.md#task-6)
+
+### [Task 7](Task_7/Task_7.md#task-7): Launch the course
+  **Mål**: Make the course available to students. 
+
+  Click here to start [Task 7](Task_7/Task_7.md#task-7)
+
+### [Task 8](Task_8/Task_8.md#task-8): Export the course (backup)
+  **Aim**: Save/export the course to file (working as a backup).
+
+  Click here to start [Task 8](Task_8/Task_8.md#task-8)
   
-  Trykk her for å starte [Oppgave 11](Oppgave_11/Oppgave_11.md#oppgave-11)
+### [Task 9](Task_9/Task_9.md#task-9): Forum and wiki
+  **Aim**: Getting to know the course forum and course wiki build into the Open edX platform.
+
+  Click here to start [Task 9](Task_9/Task_9.md#task-9)
+
+### [Task 10](Task_10/Task_10.md#task-10): Add files and handouts
+  **Aim**: Add files being used in the course, handouts for the students. Add textbooks.
+  
+    Click here to start [Task 10](Task_10/Task_10.md#task-10)
+
+### [Task 11](Task_11/Task_11.md#task-11): Advanced tasks
+  **Aim**: Add advanced methods for grading and assessment, and other content: peer assessment, Google or MS-documents, programming tasks in Python, accessing external content.
+
+  Click here to start [Task 11](Task_11/Task_11.md#task-11)
+
 

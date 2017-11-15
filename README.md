@@ -1,4 +1,4 @@
-# AkademiX-workshop-OERCompBiomed
+# AkademiX workshop: OERCompBiomed
 ### Kick-off   (17-Nov-2017)
 
 > A hands-on workshop for experimenting with course development on the Open edX-based platform nordbiomed.akademix.no.

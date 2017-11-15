@@ -1,33 +1,34 @@
 # AkademiX-workshop-OERCompBiomed
-### Alexander Lundervold, inst. for data- og realfag
+### Kick-off 17-Nov-2017
 
 > A hands-on workshop for experimenting with course development on the Open edX-based platform nordbiomed.akademix.no.
 
 ## Agenda for the workshop
 
-  * **Introduction**: Kort om plattformen. Hva er den nå? Hva kan den bli? Hva er på vei?
-  * **Hands-on**: Deltakerne får erfaring med kursutvikling på AkademiX gjennom å løse en rekke oppgaver, i stigende grad av kompleksitet. 
+  * **Introduction**: Briefly abot the platform. What it is now? What it might become? What is planned for?
+  * **Hands-on**: Particpants learns how to develop courses on the AkademiX platform by solving a series of tasks with increasing complexity. 
 
-## Introduksjon
-Slides fra introduksjonen finner du her: [Intropresentasjon](http://alexander.lundervold.com/slides/AkademiX-workshop-2016/intro-presentasjon/workshop2016.html) (Trykk SPACE for å navigere fremover)
+## Introduction
+You will find the Slides from the introduction here: [Intro-presentation](http://alexander.lundervold.com/slides/AkademiX-workshop-2016/intro-presentasjon/workshop2016.html) (Push SPACE to proceed)
 
 ## Tasks
-Du bør starte med Oppgave 1. Fullfører du oppgavene 1–7 har du lært alt du trenger for å lage ditt eget AkademiX-kurs. De resterende oppgavene omhandler avansert funksjonalitet.
+You should start with Task 1. When you have completed Tasks 1–7 you will be able to produce your own AkademiX course.
+The remaining tasks addresses more advanced functionality in Open edX.
 
-## Hjelp?
-   * Spør Alexander
-   * Spør hverandre
-   * Sjekk dokumentasjonen: [Building and Running an Open edX Course](http://edx.readthedocs.io/projects/open-edx-building-and-running-a-course/en/open-release-eucalyptus.master)
+## Need help?
+   * Ask Akademix (Alexander, Jonas, Arvid)
+   * Ask a peer
+   * Check the documentation: [Building and Running an Open edX Course](http://edx.readthedocs.io/projects/open-edx-building-and-running-a-course/en/open-release-eucalyptus.master)
 
-### [Task 1](Task_1/Task_1.md#oppgave-1): Get started
-  **Mål**: Opprett konto på akademix.no. Bli kursutvikler i ditt eget test-kurs på i *AkademiX Studio* https://beta.akademix.no:18010.
+### [Task 1](Task_1/Task_1.md#tyask-1): Getting started
+  **Aim**: Establish an user account on akademix.no. Become a developer of your own test-course on *AkademiX Studio* https://akademix.no:18010.
   
-  Trykk her for å starte [Oppgave 1](Oppgave_1/Oppgave_1.md#oppgave-1)
+  Push here to start [Task 1](Task_1/Task_1.md#task-1)
 
-### [Oppgave 2](Oppgave_2/Oppgave_2.md#oppgave-2): Lag din første kursmodul
-  **Mål**: Opprett en kursmodul bestående av en video, noe tekst og en oppgave.
-  
-  Trykk her for å starte [Oppgave 2](Oppgave_2/Oppgave_2.md#oppgave-2)
+### [Task 2](Task_2/Task_2.md#task-2): Construct your first course module
+  **Aim**: Establish a course module incorporating a video, some text, and an excercise.
+
+  Push here to start [Task 2](Task_2/Task_2.md#task-2)
   
 ### [Oppgave 3](Oppgave_3/Oppgave_3.md#oppgave-3): Lag rammeverket til et helt kurs
   **Mål**: Lag seksjoner og underseksjoner for et helt nettkurs. Med obligatoriske oppgaver, deleksamen og avsluttende eksamen.

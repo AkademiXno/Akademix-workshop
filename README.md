@@ -19,6 +19,7 @@ The remaining tasks touch on some more advanced functionality.
    * Ask AkademiX (Alexander, Jonas, Arvid)
    * Ask a peer
    * Check the documentation: [Building and Running an Open edX Course](http://edx.readthedocs.io/projects/open-edx-building-and-running-a-course/en/open-release-eucalyptus.master)
+   * Join the [edX Course Creator XSeries](https://www.edx.org/xseries/edx-course-creator).
 
 ### [Task 1](Task_1/Task_1.md#task-1): Getting started
   **Aim**: Create a user account on akademix.no. Become a course developer on your own NordBiomed course in *AkademiX Studio* https://akademix.no:18010.

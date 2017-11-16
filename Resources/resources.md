@@ -297,7 +297,7 @@ https://www.youtube.com/watch?v=zZX9jJqSlQs
 https://www.youtube.com/watch?v=xH5Y3Kmx82w
 
 ----
-## Oppgaver
+## Exercises
 
 
 

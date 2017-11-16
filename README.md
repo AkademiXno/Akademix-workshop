@@ -1,19 +1,19 @@
 # AkademiX workshop: OERCompBiomed
 ### Kick-off   (17-Nov-2017)
 
-> A hands-on workshop for experimenting with course development on the Open edX-based platform nordbiomed.akademix.no.
+> A hands-on workshop where you'll become familiar with course development on the Open edX-based platform nordbiomed.akademix.no.
 
 ## Agenda for the workshop
 
-  * **Introuction**: Briefly about the platform. What it is now? What it might become? What is planned for?
-  * **Hands-on**: Particpants learns how to develop a course on the AkademiX platform by solving a series of tasks with increasing complexity. 
+  * **Introuction**: A brief description of the platform. 
+  * **Hands-on**: Learn how to develop a course on the AkademiX platform by working through a series of tasks of increasing complexity. 
 
 ## Introduction
-You will find the Slides from the introduction here: [Intro presentation](http://alexander.lundervold.com/slides/AkademiX-workshop-OERCompBiomed/present_OERCompBiomed_kickoff.html) (press SPACE move forwards, ESC for an overview of the slides)
+The slides from the introduction are here: [Intro presentation](http://alexander.lundervold.com/slides/AkademiX-workshop-OERCompBiomed/present_OERCompBiomed_kickoff.html) (press SPACE move forwards, ESC for an overview of the slides)
 
 ## Tasks
-You should start with Task 1. When you have completed Tasks 1–7 you will be able to produce your own AkademiX course.
-The remaining tasks addresses more advanced functionality in Open edX.
+Start with Task 1. When you have completed Tasks 1–7 you'll be able to produce your own AkademiX course.
+The remaining tasks touch on more advanced functionality in Open edX.
 
 ## Need help?
    * Ask Akademix (Alexander, Jonas, Arvid)

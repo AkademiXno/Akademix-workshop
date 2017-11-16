@@ -1,7 +1,7 @@
 # AkademiX workshop: OERCompBiomed
 ### Kick-off   (17-Nov-2017)
 
-> A hands-on workshop where you'll become familiar with course development on the Open edX-based platform nordbiomed.akademix.no.
+> A hands-on workshop where you'll become familiar with course development on the Open edX-based platform [nordbiomed.akademix.no](https://nordbiomed.akademix.no).
 
 ## Agenda for the workshop
 
@@ -9,14 +9,14 @@
   * **Hands-on**: Learn how to develop a course on the AkademiX platform by working through a series of tasks of increasing complexity. 
 
 ## Introduction
-The slides from the introduction are here: [Intro presentation](http://alexander.lundervold.com/slides/AkademiX-workshop-OERCompBiomed/present_OERCompBiomed_kickoff.html) (press SPACE move forwards, ESC for an overview of the slides)
+Slides from the introduction: [Intro presentation](http://alexander.lundervold.com/slides/AkademiX-workshop-OERCompBiomed/present_OERCompBiomed_kickoff.html) (click SPACE to navigate forward, ESC for an overview of the slides)
 
 ## Tasks
 Start with Task 1. When you have completed Tasks 1–7 you'll be able to produce your own AkademiX course.
 The remaining tasks touch on some more advanced functionality.
 
 ## Need help?
-   * Ask Akademix (Alexander, Jonas, Arvid)
+   * Ask AkademiX (Alexander, Jonas, Arvid)
    * Ask a peer
    * Check the documentation: [Building and Running an Open edX Course](http://edx.readthedocs.io/projects/open-edx-building-and-running-a-course/en/open-release-eucalyptus.master)
 
@@ -73,7 +73,7 @@ The remaining tasks touch on some more advanced functionality.
 ### [Task 10](Task_10/Task_10.md#task-10): Add files and handouts
   **Aim**: Add files to the course. Handouts for the students, textbooks etc.
   
-    Click here to start [Task 10](Task_10/Task_10.md#task-10)
+  Click here to start [Task 10](Task_10/Task_10.md#task-10)
 
 ### [Task 11](Task_11/Task_11.md#task-11): Advanced tasks
   **Aim**: Add advanced methods for grading and assessment, and other content: peer assessment, Google or MS-documents, programming tasks in Python, accessing external content.

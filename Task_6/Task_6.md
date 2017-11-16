@@ -1,33 +1,34 @@
 # Task 6
 
 ### What you'll learn
-* Hvordan legge til kursutviklere
-* Hvordan legge til studenter
+* How to add course developers
+* How to add students
 
 ### a)
 
-Legg til en av de andre workshopdeltakerne i **Course Team** for ditt kurs og vice versa.
+Add one of the other workshop participants to the **Course Team**.
 ![Course team](team.png)
 
-Sjekk at dere har tilgang til hverandres kurs på [Studio-hjemmesiden](https://beta.akademix.no:18010).
+Check that you can access each others courses on the [Studio homepage](https://akademix.no:18010).
 
 ### b)
 
-(i) Studenter legges til gjennom kurssiden, ikke i Studio. Gå til https://beta.akademix.no, logg inn, og gå inn på kurset ditt.
+(i) Students are added through the course website, not in the Studio. Go to https://akademix.no, log in, and access your course.
 
-Trykk på **Instructor**:
+Click **Instructor**:
 
 ![Instructor tab](instructor.png)
 
-Under **MEMBERSHIP** finner du funksjonalitet for å legge til studenter (og "Staff"). Legg til et par studenter (blant workshop-deltakerne eller andre).
+In **MEMBERSHIP** you can add students (and "Staff"). Add a few students (among the workshop participants or others).
 
-Merk at om startdato er frem i tid får ikke studentene logget seg inn. 
+Note that if the starting date for the course is in the future, the students cannot log in to the course.
+
 
 ----
 
-(ii) Forsøk å legge til betatestere og sett antall dager med betatesting slik at kurset blir tilgjengelig for disse. Hint: under **Advanced Settings** i Studio.
+(ii) Add a few beta testers and adjust the number of days of beta testing so that the course becomes available for the beta testers. Hint: under **Advanced Settings** in Studio.
 
 
-### Ekstra
+### Extra
 
-Du må gjerne eksperimentere litt med **Instructor**-siden før du går tilbake til [startsiden](../README.md#oppgaver).
+Feel free to experiment with the **Instructor** page before returning to [the start page](../README.md#tasks).

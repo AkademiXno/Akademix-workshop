@@ -1,22 +1,19 @@
 # Task 4
 
-### What will you learn?
-* Hvordan modifisere kursbeskrivelsen som blir vist på https://beta.akademix.no
+### What you'll learn?
+* How to modify the course description shown on https://nordbiomed.akademix.no
 
 
 ### a)
 
-(i) Trykk på **Setting** og **Schedule & Details**. Trykk på lenken under **Course Summary Page**. Målet til denne oppgaven er å endre denne beskrivelsen.
+(i) Click **Setting** and **Schedule & Details**. Click the link under **Course Summary Page**. The goal of Task 4 is to change this description.
 
 ----
-(ii) Under **Schedule & Details**, rull ned til **Introducing Your Course**. I boksen **Course Overview** finner du HTML-koden for websiden om kurset. Teksten inneholder forslag til innhold. Gjør noen endringer her og der, trykk **Save Changes**. Gå deretter til lenken øverst på samme side for å se effekten av dine endringer.
+(ii) Under **Schedule & Details**, scroll down to **Introducing Your Course**. In the **Course Overview** box you'll find the HTML for the course about page. The text contains suggested content. Make some adjustments and then click **Save Changes**. Return to the link at the top of the page to view your changes.
 
 ----
-(iii) Under **Course Image** finner du kursbildet som vises på https://beta.akademix.no. Endre URL-en til bildet (som starter med "/asset-v1") til følgende: https://beta.akademix.no/asset-v1:HiB+Oppfrisk+2016_T2+type@asset+block@oppfrisk.jpg. Trykk **Save Changes**.
+(iii) Below **Course Image** you'll find the course image shown on https://nordbiomed.akademix.no. Change the URL to another suitable image. Click **Save Changes**.
+You can upload an image using **Upload Course Image**. The dimensions of the image should be adjusted. Experiment until you get something that looks alright (220x140 is an example of a suitable dimension).
 
 
-### Ekstra
-
-Om du ønsker det kan du alternativt laste opp kursbilde fra egen maskin ved å bruke **Upload Course Image**. Dimensjonene på bildet må være tilpasset størrelsen det får av systemet. Eksperimenter deg frem for å finne passende dimensjoner (220x140 vil f.eks. fungere bra).
-
-Gjør deg litt kjent med de andre innstillingene under **Schedule & Details** før du går tilbake til [startsiden](../README.md#oppgaver) og velger Oppgave 5.
+Familiarize yourself with other settings under **Schedule & Details** before returning to [the start page](../README.md#tasks), selecting Task 5.

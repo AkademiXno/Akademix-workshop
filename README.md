@@ -76,7 +76,7 @@ The remaining tasks touch on some more advanced functionality.
   
   Click here to start [Task 10](Task_10/Task_10.md#task-10)
 
-### [Task 11](Task_11/Task_11.md#task-11): Advanced tasks
+### [Task 11](Task_11/Task_11.md#task-11): Advanced content
   **Aim**: Add advanced methods for grading and assessment, and other content: peer assessment, Google or MS-documents, programming tasks in Python, accessing external content.
 
   Click here to start [Task 11](Task_11/Task_11.md#task-11)

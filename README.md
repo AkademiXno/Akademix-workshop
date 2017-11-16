@@ -36,7 +36,7 @@ The remaining tasks addresses more advanced functionality in Open edX.
   Click here to start [Task 3](Task_3/Task_3.md#task-3)
 
 ### [Task 4](Task_4/Task_4.md#task-4): Course description
-  **Aim**: Make a course description ([Example](https://beta.akademix.no/courses/course-v1:UiBx+ELMED219+January_Elective/about)). 
+  **Aim**: Make a course description ([Example]https://akademix.no/courses/course-v1:UiB+ELMED219x+2018/about(https://beta.akademix.no/courses/course-v1:UiBx+ELMED219+January_Elective/about)). 
 
   Click here to start [Task 4](Task_4/Task_4.md#task-4)
 

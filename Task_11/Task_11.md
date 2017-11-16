@@ -10,6 +10,6 @@
 ----
 (ii) The course contains a number of advanced content blocks. Click around to familiarize yourself with these. You can copy the content to your own course.
 
-### You've now finished all the tasks!
+### You've finished all the tasks!
 
 To learn more: experiment, ask, and read the documentation (http://edx.readthedocs.io/projects/open-edx-building-and-running-a-course/en/latest/getting_started/index.html). You can also join the [edX Course Creator XSeries](https://www.edx.org/xseries/edx-course-creator).

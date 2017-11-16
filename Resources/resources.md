@@ -27,12 +27,12 @@ https://www.youtube.com/watch?v=OZbM1h3S-aA
 
 
 ----
-### Fra Khan Academy: [Intro to biology](https://www.khanacademy.org/science/biology/intro-to-biology)
+### From Khan Academy: [Intro to biology](https://www.khanacademy.org/science/biology/intro-to-biology)
 
 #### 1. Welcome to biology
 
 ##### 1.1. Text: **Preparing to study biology**:
-Lag en **Raw HTML**-blokk og lim inn følgende. Alternativt: formater teksten med den innebygde teksteditoren slik at den ligner på https://www.khanacademy.org/science/biology/intro-to-biology/what-is-biology/a/prep-to-study-biology
+Make a **Raw HTML** block and pase the following. Alternatively, format the text with the built-in text editor to make it resemble https://www.khanacademy.org/science/biology/intro-to-biology/what-is-biology/a/prep-to-study-biology
 ```
 <h2>What should I know before starting biology?<h2>
 
@@ -268,16 +268,16 @@ on the first try. The purpose is for you to learn, so have fun!
 https://www.youtube.com/watch?v=F6tSkw2LgcY
 
 ----
-### Fra forelesning
+### From a lecture
 
 #### Video-kilde:
 https://www.youtube.com/watch?v=xAGiqdwq88I
 
-Gå til Studio for å legge til denne videoen. Trykk **Edit** og deretter **ADVANCED**. Ved å bruke **Video Start Time** og **Video Stop Time** kan du dele opp videoen i flere biter (og gjerne stille spørsmål mellom hver bit). 
+Add this video to your course in the Studio. Click **Edit** and then **ADVANCED**. By using **Video Start Time** and **Video Stop Time** you can split the video into pieces (and perhaps add some questions in-between each piece).
 
 
 ----
-### Fra Khan Academy: [Respiratory system](https://www.khanacademy.org/science/health-and-medicine/respiratory-system)
+### From Khan Academy: [Respiratory system](https://www.khanacademy.org/science/health-and-medicine/respiratory-system)
 
 #### 1. Respiratory system introduction
 ##### 1.1. **Meet the lungs**:
@@ -303,15 +303,15 @@ https://www.youtube.com/watch?v=xH5Y3Kmx82w
 
 ### Respiratory system:
 
-#### Oppgave 1:
-Lag en **Raw HTML**-blokk og skriv inn
+#### Exercise 1:
+Make a **Raw HTML** block and paste
 ```
 <p>
 I følgende bilde puster svømmeren tungt inn
 <img width="100%" src="https://cdn.kastatic.org/ka-perseus-images/1899272b476853ed405acb5ddc05c8ba96438d8e.jpg">
 </p>
 ```
-Lag deretter en checkbox-oppgave og lim inn følgende:
+Then, make a checkbox problem and paste:
 ```
 >>Hvilke av følgende prosesser foregår under inhalering?<<
 [x] Trykket i lungene er lavere enn i omgivelsene
@@ -327,8 +327,8 @@ Lag deretter en checkbox-oppgave og lim inn følgende:
 Merk: Husk å få med alle korrekte svar. Det kan være mer enn ett!
 ```
 
-#### Oppgave 2:
-Opprett en multiple choice-oppgave og lim inn følgende tekst:
+#### Exercise 2:
+Create a multiple choice problem and paste the following text:
 
 ```
 >>Hvilket av følgend utsagn er sant?<<
@@ -348,16 +348,16 @@ Planter lager oksygen via fotosyntese, og mennesker bruker den i cellulær respi
 ### Intro to the design of everyday things
 
 #### Quiz 1:
-En checkbox-oppgave der studenten blir bedt om å skrive et innlegg på forumet og så si fra når dette er utført. Kopier følgende inn i et **Blank Problem**:
+A checkbox problem where the students are asked to post on the forum and then mark it as completed when done. Copy the following into a **Blank Problem**:
 
 ```
 
 ```
 
 ----
-#### Quiz 2: En fritekst-oppgave
+#### Quiz 2: A free text problem
 
-Lag en **Problem Builder**-blokk (finnes under **Advanced**). Trykk på **View** og velg deretter **Long Answer**. Trykk **Edit** og lim inn følgende:
+Create a **Problem Builder** block (available under **Advanced**). Click **View** and then **Long Answer**. Click **Edit** and paste the following:
 
 ```
 <img width="100%" src="https://lh3.ggpht.com/e6rZBO15LcHaGjqeHrsu-9cipetkZ5uNHW1kHCv_H8dfJU2H-YJphhqfJ5gMQHeBwlG4KVRh6lyoJi8I15I=s0#w=1920&h=1080">
@@ -368,7 +368,7 @@ Lag en **Problem Builder**-blokk (finnes under **Advanced**). Trykk på **View**
 
 #### Quiz 1: Checkboxes
 
-Lag en **Blank Advanced Problem**-boks og lim inn
+Create a **Blank Advanced Problem** and paste:
 
 ```
 <problem>
@@ -404,7 +404,7 @@ Lag en **Blank Advanced Problem**-boks og lim inn
 ----
 
 
-## Diverse oppgaver
+## Various exercises
 
 ### 1.
 
@@ -435,7 +435,7 @@ de norske skoger.</p>
 
 ### 2.
 
-Lag en **Blank Common Problem**-blokk og lim inn
+Create a **Blank Common Problem** and paste:
 ```
 >>Hva heter Norges hovedstad?<<
 

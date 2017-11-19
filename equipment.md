@@ -14,7 +14,7 @@ Here are our setups. We typically use relatively cheap "do-it-yourself" solution
    * **Headset microphone and mixer**: This one is mainly for our mathematics courses. The table microphones like the Yeti tend to pick up "tapping" sounds from the tablet. Less so for headset-based microphones. We use the [Audio-Technica BPHS1](http://www.audio-technica.com/cms/headphones/f36152d8a3580d50/) in combination with the USB mixer [Behringer XENYX 302USB](http://www.music-group.com/Categories/Behringer/Mixers/Analog-Mixers/302USB/p/P0ADV). Approximate price: **EUR 200 + 50**.
    * **Webcam**: The [Logitech web cameras](https://www.logitech.com/en-roeu/video/webcams) are nice. We use the C930e, which costs approximately **EUR 65**. 
 
-
+---
 
 # Recommended software
 

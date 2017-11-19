@@ -19,4 +19,4 @@ You'll find lots of good guides and resources online about producing e-learning 
 # Recommended software
 
   * **PowerPoint**: If you normally use PowerPoint for your lectures, then it's easiest to turn your presentations into videos directly in PowerPoint: [Turn your presentation into a video](https://support.office.com/en-us/article/Turn-your-presentation-into-a-video-c140551f-cb37-4818-b5d4-3e30815c3e83).
-  * **Screen recorder**: With a screen recorder you can record a video from any software. We use the [OBS Studio](https://obsproject.com/), which is free and open source. If you use PowerPoint, a separate screen recorder is not necessary (you can use PowerPoint's built-in screen recorder).
+  * **Screen recorder**: With a screen recorder you can record a video from any software (f.ex. OneNote). We use the [OBS Studio](https://obsproject.com/), which is free and open source. If you use PowerPoint, a separate screen recorder is not necessary (you can use PowerPoint's built-in screen recorder).

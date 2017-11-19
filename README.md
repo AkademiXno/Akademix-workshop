@@ -82,3 +82,8 @@ The remaining tasks touch on some more advanced functionality.
   Click here to start [Task 11](Task_11/Task_11.md#task-11)
 
 
+---
+
+## Equipment
+
+For a list of recommended hardware and software, see [Equipment](equipment.md).

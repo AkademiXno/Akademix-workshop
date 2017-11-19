@@ -1,7 +1,7 @@
 # Recommended hardware
 ## For producing e-learning videos
 
-You'll find lots of good guides and resources online about producing e-learning videos. Here is our setups. We typically use relatively cheap "do-it-yourself" solutions. The most important ingredients is a tablet and a *good microphone*. 
+Here are our setups. We typically use relatively cheap "do-it-yourself" solutions. The most important ingredients is a tablet and a *good microphone*. You'll find lots of good guides and resources online about producing e-learning videos. 
 
 ## Simple setup
 
